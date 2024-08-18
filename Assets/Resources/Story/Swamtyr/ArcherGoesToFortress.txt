@@ -1,0 +1,6 @@
+# TODO
+
+variable(archerQuest;-1)
+variable(mainQuest;2)
+
+load(Swamtyr/Interaction)

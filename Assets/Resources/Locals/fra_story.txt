@@ -1,0 +1,787 @@
+# -----------------------------------------------------------
+# --------------- Characters --------------------------------
+# -----------------------------------------------------------
+
+
+Char_Harold = Harold
+Char_Rickey = Rickey
+Char_Boyardee = Boyardee
+Char_Runcan = Chevalier de Runan
+Char_Waldo = Waldo
+Char_??? = ???
+Char_Dragon = Dragon
+Char_Katsumoto = Katsumoto
+Char_Touriste = Touriste
+Char_Foule = Foule
+Char_Natasha = Natasha
+Char_Ogre = Ogre
+Char_Archer = Archer
+Char_Mage = Mage
+Char_GUARD = GARDE
+Char_Braise = Braise
+Char_OldMan = Vieillard
+Char_OlWoman = Vieillarde
+Char_Marcel = Chasseur
+Char_Adrian = Adrien
+
+# -----------------------------------------------------------
+# --------------- Choices -----------------------------------
+# -----------------------------------------------------------
+
+Choice_Generic = Que faire ?
+Choice_Chat = De quoi parler ?
+Choice_Road = Quel chemin prendre ?
+
+Choice_Map = Carte
+Choice_Harold = Parler à Harold
+Choice_CheckArea = Vérifier les alentours
+Choice_Nothing = Rien (Partir)
+Choice_MoveOut = Continuer
+
+Choice_Ideas = Des idées ?
+Choice_AboutRegion = A propos de la région
+Choice_AboutYou = A propos de vous
+Choice_AboutJob = A propos de votre travail
+Choice_AboutEmber = A propos du dragon
+Choice_AboutAssassin = A propos de l'assassin
+Choice_AboutPark = A propos du parc
+Choice_AboutRickey = A propos de Rickey
+Choice_AboutArcher = A propos de l'archer
+Choice_WhyMe = Pourquoi moi ?
+
+Choice_Left = Aller à Gauche
+Choice_Right = Aller à Droite
+
+Choice_Accept = Accepter
+Choice_Refuse = Refuser
+
+Choice_RunAway = Fuir
+
+
+# ---------------------------------------------------------
+# ------------------- Intro -------------------------------
+# ---------------------------------------------------------
+
+
+Intro_1 = La province de Vlatyr... paisible consituante des provinces-Unis de Kosky.
+Intro_2 = Ici, le ciel est clair and l'air est pure. Un endroit révé pour des vacances.
+Intro_3 = On aurait pu croire que rien ne pourrait jamais arriver ici, comme dans un rêve.
+Intro_4 = Mais... Ces jours paisibles prirent fin bien assez tôt.
+Intro_5 = Un tyrant, connu sous le nom du Seigneur Braise, arriva sur ces terres.
+Intro_6 = Que cherchait-il ? A se venger. Se venger d'un tord qu'il avait subit.
+Intro_7 = Il pilla des maisons, brûla des voitures, tua des innocents. La région tomba dans le chaos.
+Intro_8 = Rapidement, il prit le contrôle de la vielle forteresse montagneuse, connu maintenant sous le nom de la 'Forteresse Braise'.
+Intro_9 = Personne n'osa l'approcher, car le dragon était plus fort que la plupart des aventuriers.
+Intro_10 = Ils ne firent que spéculer sur ses origines, sur la cible de sa vengeance enflammée.
+Intro_11 = Mais je connaissais la vérité. J'ai vu la bête de mes propres yeux auparavant.
+Intro_12 = Le seigneur Braise etais originaire de l'ouest, de la province enneigée de Runan.
+Intro_13 = La bas, il se reposait la plupart du temps. Il était beaucoup plus faible.
+Intro_14 = Un jour, il combattu un humain. Il perda, et jura vengeance.
+Intro_15 = Il obtient alors un ancient artefact, capable de rendre son utilisateur beaucoup plus puissant.
+Intro_16 = Avec ses nouveaux pouvoirs, il tenta de tuer son némésis.
+Intro_17 = Il échoua, et l'humain pris la fuite. Ou ? A l'est, dans la province de Vlatyr.
+Intro_18 = Le Seigneur Braise n'allait cependant pas s'arrêter là. Il le pourchassa jusqu'ici.
+Intro_19 = Après avoir semé le chaos dans la région. Il décida de s'arrêter et de se reposer dans la Forteresse Braise.
+Intro_20 = Mais un héro d'un autre monde arriva et entra dans la forteresse. Son but ? Tuer le Seigneur Braise.
+Intro_21 = Il y arriva, et apporta à nouveau la stabilité dans la province.
+Intro_22 = Cependant, cette paix nouvelle fut dérangée à nouveau peu de temps après...
+Intro_23 = La forteresse, maintenant vide, était pleine d'or et d'artefactes.
+Intro_24 = L'avarie poussa certains à chercher à controller la forteresse.
+Intro_25 = Tandis qu'ils se préparaient à mener leur expédition, la province devient instable.
+Intro_26 = Tous savait qu'il n'y aurait qu'un individu qui controlerait la forteresse. Mais qui ?
+Intro_27 = And que fera-t-il avec l'or et les artefactes ? Vivre une vie de luxe ? Essayer de prendre le contrôle de la province ?
+Intro_28 = Vlatyr avait besoin d'un nouveau héro. Quelqu'un capable de vaincre ces fauteurs de troubles.
+Intro_29 = Et c'est là que vous intervenez, héro !
+Intro_30 = Comme vous pouvez le voir, nous sommes en danger. Nous avons besoin de votre aide !
+Intro_31 = Le dragon est mort il y a deux semaines, mais nous sommes toujours en difficulté.
+Intro_32 = Deux individus veulent prendre le contrôle de la forteresse par avarie.
+Intro_33 = J'ai attendu un peu, car je pensais que les choses iraient mieux. J'avais tord.
+Intro_34 = Ce soir, ils se préparent. Ils partiront bientôt. Nous devons agir !
+Intro_35 = Je comprend, mais pourquoi moi ? Je n'ai pas demandé ça, moi.
+Intro_36 = Je vous ai choisi, car vous étiez le candidat le plus fort.
+Intro_37 = Je suis spécialisé dans l'invocation de héros d'autres mondes, vous voyez.
+Intro_38 = Alors, vous allez m'aider, pas vrai ?
+
+Intro_No_1 = No merci. Je n'ai pas le temps pour ça.
+Intro_No_2 = ....
+Intro_No_3 = Merci pour votre coopération, héro !
+Intro_No_4 = .... Je n'ai pas vraiment le choix, on dirait...
+
+Intro_Yes_1 = Très bien. Mais juste pour cette fois.
+Intro_Yes_2 = Merci beaucoup, héro !
+
+Intro_39 = Ah ! Mais il va vous falloir un nom de code.
+Intro_40 = Vous ne voulez pas que vos ennemis reconnaissent votre vrai nom. Et puis, c'est vraiment sympa !
+Intro_41 = Voyons-voir.... Je sais ! [MC] ! Quel nom de code sympa !
+Intro_42 = Peu importe. Dis-moi juste ce que je dois faire.
+Intro_43 = Direct, j'aime ça.
+Intro_44 = Je vais tout vous expliquer. Nous avons beacoup à faire, et pas beaucoup de temps.
+Intro_45 = Il a deux cibles à vaincre.
+Intro_46 = La première est un archer de la province de Forestyr.
+Intro_47 = Il est venu il y a quelques semaines pour chasser dans le marais local.
+Intro_48 = Maintenant, il veux voler les artefactes de la forteresse. Certains sont dangereux.
+Intro_49 = Vous allez pouvoir le trouver à Swamtyr, un petit village à coté du marais.
+Intro_50 = La deuxième cible est Rickey, le PDG de RickeyLand. C'est un parc d'attractions.
+Intro_51 = Au départ, c'était un PDG reconnu. Maintenant, il est devenu fou et avare.
+Intro_52 = Il veut voler l'or de la forteresse, et en faire son siège social.
+Intro_53 = On ne peut pas le laisser faire ça. L'or ne lui appartient pas.
+Intro_54 = Vous le trouverez probablement à RickeyLand, même si le parc est pour le moment fermée.
+Intro_55 = Utilisez tout les moyens possibles pour les empecher d'attaquer la forteresse.
+Intro_56 = Je recommande cependant la force non léthal. Mais le choix est ultimement votre.
+Intro_57 = Je peux travailler avec ça.
+Intro_58 = Super ! Et une dernière chose. On manque de temps.
+Intro_59 = Ils se préparent en ce moment même, et peuvent mener leur attaque à n'importe quel moment.
+Intro_60 = Il est possible qu'un d'entre eux attaque pendant que vous vous occupez de l'autre.
+Intro_61 = Si cela arrive, n'oubliez pas que votre but est de protéger la forteresse.
+Intro_62 = Compris. Autre chose ?
+Intro_63 = Ah, oui. Tout d'abord, j'aimerai que vous alliez à Vlatyr.
+Intro_64 = Une de mes connaissances, Mr.Boyardee, a des outils pour vous. Vous en aurez besoin.
+Intro_65 = Donc allez le voir en premier lieu. C'est tout.
+Intro_66 = Très bien. Je sais tout ce que je voulais savoir.
+Intro_67 = Oh, mais faites attention avec lui. Il est... unique ?
+Intro_68 = Ne t'inquietes pas. Je ne mord pas.
+Intro_69 = Bien sur. Je serais la si vous avez besoin de moi.
+Intro_70 = Je me retourne, et sort de la maison.
+Intro_71 = La nuit est froide. Au moins il ne pleut pas.
+Intro_72 = Quel homme étrange, ce Harold...
+Intro_73 = J'étais la, tranquille, quand je tombe soudainement inconscient.
+Intro_74 = Quand je me réveille, le voila. Il m'a parlé de sa fortresse pendant des heures. 
+Intro_75 = Je n'en ai rien à faire. Mieux, j'aimerai bien voler l'or.
+Intro_76 = Mais je suppose que c'est lui qui m'a fait venir. Je ne devrais pas l'énerver.
+Intro_77 = Il est temps d'aller à cette ville, 'Vlatyr'.
+Intro_78 = Je peux intéragir avec les objets en surbrillance et les zones générales. Je veux aussi bouger en intéragissant avec le bas de l'écran.
+
+
+
+
+# ---------------------------------------------------------
+# ------------- Chez Harold -------------------------------
+# ---------------------------------------------------------
+
+ChezHarold_Car_1 = La voiture d'Harold. Elle est fermée, donc je ne peux pas entrer dedans.
+
+ChezHarold_Harold_WhyMe_1 = Vous êtes le candidat le plus fort que je connaissais !
+ChezHarold_Harold_WhyMe_2 = Quand je décide d'invoquer un héro, je fais quelques recherches avant.
+ChezHarold_Harold_WhyMe_3 = Je crée une liste de candidats potentiels, puis je selectionne le plus adapté pour la mission.
+ChezHarold_Harold_WhyMe_4 = Dans votre cas, il n'y avait que deux candidats.
+ChezHarold_Harold_WhyMe_5 = Je pensais que l'autre candidat refuserai de m'aider, car je l'avais déjà invoqué auparavent.
+ChezHarold_Harold_WhyMe_6 = C'est lui qui avais tué le dragon, vous savez. J'ai pensé qu'il méritait un peu de repos.
+ChezHarold_Harold_WhyMe_7 = Ce qui ne laissa que vous, [MC]. Vous m'avez impressioné avec vos compétences en combat.
+ChezHarold_Harold_WhyMe_8 = Je savais que vous seriez capable de vaincre les cibles de ce soir.
+
+ChezHarold_Harold_You_1 = Je suis Harold, un ancient danseur à la retraite.
+ChezHarold_Harold_You_2 = A l'époque, je voyagais dans le monde entier. Je dansais pour n'importe qui.
+ChezHarold_Harold_You_3 = Ce n'était pas le meilleur travail, ni même le mieux payé, mais j'aimais voyager.
+ChezHarold_Harold_You_4 = Je suis tombé eventuellement amoureux d'une noble du pays de Lonas. Nous allions nous marrier.
+ChezHarold_Harold_You_5 = Mais à cause d'un incident, j'ai été expulsé du pays. Je suis alors revenu à Vlatyr.
+ChezHarold_Harold_You_6 = Elle me manque toujours... Je pense c'est la même chose pour elle.
+ChezHarold_Harold_You_7 = Enfin... comme j'étais vieux et ennuyé, j'ai décidé d'apprendre la magie.
+ChezHarold_Harold_You_8 = C'est vraiment simple à faire ! Il faut juste trouver un dieu protecteur, et apprendre.
+ChezHarold_Harold_You_9 = J'ai choisi le mien, et j'ai appris à propos de l'invocation de personnes d'autres mondes.
+ChezHarold_Harold_You_10 = Ainsi, en cas de problèmes, je peut utiliser mes pouvoirs pour invoquer un héro d'un autre monde.
+
+ChezHarold_Harold_MainQuest0_1 = Allez à Vlatyr, et parler à Mr.Boyardee.
+ChezHarold_Harold_MainQuest0_2 = C'est un de mes amis. Il possède une boutique en ville.
+ChezHarold_Harold_MainQuest0_3 = Il vous donnera de l'équipement dont vous aurez besoin durant votre mission.
+ChezHarold_Harold_MainQuest0_4 = Vous ne pourrez pas poursuivre sans, donc ne tardez pas.
+ChezHarold_Harold_MainQuest0_5 = J'espère simplement qu'il ne vous embetera pas trop.
+
+ChezHarold_Harold_MainQuest1_1 = Vous pouvez maintenant vous occupez de vos cibles.
+ChezHarold_Harold_MainQuest1_2 = Rickey est pour le moment en train de se préparer dans son parc, RickeyLand.
+ChezHarold_Harold_MainQuest1_3 = Attention, j'ai entendu dire qu'il avait engagé des gardes récemment. Il est aussi très volatile.
+ChezHarold_Harold_MainQuest1_4 = L'archer, quand à lui, devrait être à Swamtyr, un petit village à coté du marais.
+ChezHarold_Harold_MainQuest1_5 = Faites attention, j'ai entendu dire qu'il avait aidé à tuer une dangereuse bête vivant dans le marais.
+
+ChezHarold_Harold_MainQuest2_Rickey_1 = Rickey est allé à la forteresse ?!
+ChezHarold_Harold_MainQuest2_Rickey_2 = Poursuivez-le ! Mais faites attention.
+ChezHarold_Harold_MainQuest2_Rickey_3 = Son tank est bien plus puissant que vous le l'imaginez...
+
+ChezHarold_Harold_MainQuest2_Archer_1 = Donc l'archer est allé à la forteresse...
+ChezHarold_Harold_MainQuest2_Archer_2 = Suivez-le. Mais faites attention aux artefactes qu'il aura volé.
+ChezHarold_Harold_MainQuest2_Archer_3 = J'ai entendu dire que certains d'entre eux rendent leur utilisateur invincible...
+
+ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
+
+
+ChezHarold_End_1 = Quand j'arrive, Harold est déjà à l'extérieur.
+ChezHarold_End_2 = [MC] ! Vous êtes de retour ! Avez-vous réussi ?
+ChezHarold_End_3 = J'ai tué le dragon, et retrouvé votre "trésor".
+ChezHarold_End_4 = Ah, Ah... Merci beaucoup.
+ChezHarold_End_5 = Je suis désolé de vous avoir trompé de la sorte.
+ChezHarold_End_6 = J'ai pensé que vous ne m'auriez pas cru si j'avais dit la vérité...
+ChezHarold_End_7 = Mais bon, ça à marché au final, non ?
+ChezHarold_End_8 = Oui, je suppose...
+ChezHarold_End_9 = Bien ! Grâce à vos efforts, Vlatyr est de nouveau sûr.
+ChezHarold_End_10 = Le dragon est parti, et les voitures ne seront plus prises pour cibles.
+ChezHarold_End_11 = Vous ne pouvez pas imaginer à quel point c'était un problème.
+ChezHarold_End_12 = J'ai vu quelques voitures brulées durant mon voyage. Je peux deviner les ennuis qu'il a causés.
+ChezHarold_End_13 = Oui. Bien, je suppose qu'il est temps pour moi de vous renvoyer, comme promis.
+ChezHarold_End_14 = tenez ! Buvez ceci !
+ChezHarold_End_15 = Harold me donne son mug. Son contenu est vert, qu'est-ce ?
+ChezHarold_End_16 = C'est une potion qui vous renverra dans votre monde.
+ChezHarold_End_17 = Je vois. Merci, Harold.
+ChezHarold_End_18 = Je vous en prie ! Peut-être nous reverrons-nous un jour ? Qui sait...
+ChezHarold_End_19 = Peut-être. Pour le moment, au revoir.
+ChezHarold_End_20 = Adieux, [MC].
+ChezHarold_End_21 = Je bois la potion. Je tombe inconscient immédiatement.
+ChezHarold_End_22 = Quand je reprends connaissance, je suis chez moi, dans le monde réel.
+ChezHarold_End_23 = Et bien, c'était une étrange aventure.
+ChezHarold_End_24 = Je me demande si je reverrai Harold un jour...
+
+# ---------------------------------------------------------
+# ------------------- Vlatyr ------------------------------
+# ---------------------------------------------------------
+
+Vlatyr_ChezBoyardee_Done_1 = Je n'ai pas besoin d'y retourner.
+
+Vlatyr_ChezBoyardee_MainQuest0_1 = J'entre dans la boutique de Boyardee. C'est un étrange restaurant.
+Vlatyr_ChezBoyardee_MainQuest0_2 = Harold m'a dit qu'il avait de l'équipement pour moi. J'espère qu'il a raison.
+Vlatyr_ChezBoyardee_MainQuest0_3 = Parce que je ne vais surtout pas manger ici. L'odeur est infame...
+Vlatyr_ChezBoyardee_MainQuest0_4 = Peut-être que c'est pourquoi il n'y a pas beaucoup de gens ici. Comment ce restaurant est toujours ouvert ?
+Vlatyr_ChezBoyardee_MainQuest0_5 = Oh, bien le bonjour !
+Vlatyr_ChezBoyardee_MainQuest0_6 = Un homme étrange s'approche de moi. Il porte l'habit d'un chef. Est-ce le propriétaire ?
+Vlatyr_ChezBoyardee_MainQuest0_7 = Vous venez manger seul ? Pas de problèmes !
+Vlatyr_ChezBoyardee_MainQuest0_8 = Qu'allez vous prendre ? J'ai des pâtes et des salades. Le special d'aujourd'hui est le plat de pâtes chocolat-citron.
+Vlatyr_ChezBoyardee_MainQuest0_9 = Quoi ? Non, je ne mange pas ça.
+Vlatyr_ChezBoyardee_MainQuest0_10 = Non, non. Harold m'a envoyé ici. Il m'a dit que vous aviez de l'équipement pour moi.
+Vlatyr_ChezBoyardee_MainQuest0_11 = Oh, oui ! C'est vrai.
+Vlatyr_ChezBoyardee_MainQuest0_12 = Harold m'a appelé ce matin et m'a dit d'aller achêter de l'équipement pour une mission.
+Vlatyr_ChezBoyardee_MainQuest0_13 = Je n'ai pas achêter grand chose, une corde, un crochet, des trucs du genre.
+Vlatyr_ChezBoyardee_MainQuest0_14 = Suffisament pour escalader un mur au moins.
+Vlatyr_ChezBoyardee_MainQuest0_15 = Harold m'a aussi dit d'achêter une arme, au cas ou. Mais je n'ai pas pu en trouver une. 
+Vlatyr_ChezBoyardee_MainQuest0_16 = Apparement, des gardes de RickeyLand sont venu dans la matinée. Ils ont tout achêté.
+Vlatyr_ChezBoyardee_MainQuest0_17 = Ca peut être un problème. RickeyLand sera bien gardé.
+Vlatyr_ChezBoyardee_MainQuest0_18 = Bien, merci dans tout les cas. Je suis sur que j'aurais besoin de ces outils pour ma mission.
+Vlatyr_ChezBoyardee_MainQuest0_19 = Oui, euh... en fait... Je peux vous demander une faveur ?
+Vlatyr_ChezBoyardee_MainQuest0_20 = Oh non....
+Vlatyr_ChezBoyardee_MainQuest0_21 = J'attend beaucoup de clients dans quelques instants, et je manque de main d'oeuvre.
+Vlatyr_ChezBoyardee_MainQuest0_22 = Vous avez l'air débrouillard. Vous pourriez m'aider à les servir ?
+Vlatyr_ChezBoyardee_MainQuest0_23 = Bon sang ! Je savais que ça finirai comme ça.
+Vlatyr_ChezBoyardee_MainQuest0_24 = Ecoutez. Ce n'est pas que je ne veux pas, mais je dois vraiment me dépecher.
+Vlatyr_ChezBoyardee_MainQuest0_25 = Harold m'a confié une mission urgente. Chaque minute compte.
+Vlatyr_ChezBoyardee_MainQuest0_26 = Je ne me dépeche pas, nous pourriez tous être en danger.
+Vlatyr_ChezBoyardee_MainQuest0_27 = Mais mes clients sont une affaire urgente, eux aussi ! J'ai besoin de votre aide.
+Vlatyr_ChezBoyardee_MainQuest0_28 = ... Vous ne me laissez pas le choix ! Je n'avais pas envie de faire ça...
+Vlatyr_ChezBoyardee_MainQuest0_29 = Je prend l'équipement en otage !
+Vlatyr_ChezBoyardee_MainQuest0_30 = Vous ne l'aurez pas tant que vous ne m'aurez pas aidé avec les clients.
+Vlatyr_ChezBoyardee_MainQuest0_31 = Il est serieux ? Je n'ai pas le temps pour ça.
+Vlatyr_ChezBoyardee_MainQuest0_32 = Mais... Je n'ai pas le choix, pas vrai ?
+Vlatyr_ChezBoyardee_MainQuest0_33 = Je peut essayer de prendre l'équipement de force, mais Harold serait furieux.
+Vlatyr_ChezBoyardee_MainQuest0_34 = Très bien, je vais vous aider.
+Vlatyr_ChezBoyardee_MainQuest0_35 = Splendide ! Je suis heureux d'avoir pu trouver un arrangement avec vous.
+Vlatyr_ChezBoyardee_MainQuest0_36 = Et juste à temps ! Il semblerait que les clients commencent à arriver.
+Vlatyr_ChezBoyardee_MainQuest0_37 = Allez en cuisine, je vais vous dire quoi faire.
+Vlatyr_ChezBoyardee_MainQuest0_38 = Je vois, d'accord.
+Vlatyr_ChezBoyardee_MainQuest0_39 = Je m'approche de la porte de la cuisine, à l'arrière du restaurant.
+Vlatyr_ChezBoyardee_MainQuest0_40 = Je n'ai pas le temps pour ça, mais bon...
+Vlatyr_ChezBoyardee_MainQuest0_41 = J'entre à l'intérieur, et me prépare pour cuisiner.
+
+Vlatyr_ChezBoyardee_MainQuest0_42 = J'ai fini de cuisiner. Enfin...
+Vlatyr_ChezBoyardee_MainQuest0_43 = Je sort de la cuisine. Boyardee devrai me donner l'équipement maintenant.
+Vlatyr_ChezBoyardee_MainQuest0_44 = Ah, vous voila.
+Vlatyr_ChezBoyardee_MainQuest0_45 = On dirait que mes clients sont très impressionés avec votre cuisine. Bravo.
+Vlatyr_ChezBoyardee_MainQuest0_46 = Grâce à vous, je n'aurais pas de problèmes à la conférence.
+Vlatyr_ChezBoyardee_MainQuest0_47 = Hein ? Quelle conférence ?
+Vlatyr_ChezBoyardee_MainQuest0_48 = Et bien... Les clients font partis de ma famille. Ils sont venu dire bonjour en quelque sorte.
+Vlatyr_ChezBoyardee_MainQuest0_49 = La dernière fois qu'ils sont venu, j'avais raté mes pizzas. Le chocolat était trop chaud.
+Vlatyr_ChezBoyardee_MainQuest0_50 = A la conférence familiale, j'avais été ridiculisé pour ça.
+Vlatyr_ChezBoyardee_MainQuest0_51 = Donc grâce à moi, ce chef raté ne se fera pas moqué la prochaine fois...
+Vlatyr_ChezBoyardee_MainQuest0_52 = Je suis impressioné qu'il ai réussit à rester ouvert autant de temps. Les ingredients qu'il utilise sont... originaux.
+Vlatyr_ChezBoyardee_MainQuest0_53 = Je peux avoir l'équipement maintenant ?
+Vlatyr_ChezBoyardee_MainQuest0_55 = Oh, oui ! Voila.
+Vlatyr_ChezBoyardee_MainQuest0_56 = Il me donne enfin l'équipement dont j'avais besoin.
+Vlatyr_ChezBoyardee_MainQuest0_57 = J'espère que vous arriverez à réussir dans votre mission, peut importe son but.
+Vlatyr_ChezBoyardee_MainQuest0_58 = Oui, oui.
+Vlatyr_ChezBoyardee_MainQuest0_59 = J'ai déjà assez perdu de temps ici. Je dois me dépecher.
+Vlatyr_ChezBoyardee_MainQuest0_60 = Je commence à sortir du restaurant.
+Vlatyr_ChezBoyardee_MainQuest0_61 = En chemin, je regarde les clients qui avaient commandés les pizzas.
+Vlatyr_ChezBoyardee_MainQuest0_62 = Ils sont étranges... Ils portent de robes. Des religieux ?
+Vlatyr_ChezBoyardee_MainQuest0_63 = Peu importe, je n'ai pas le temps pour ça.
+Vlatyr_ChezBoyardee_MainQuest0_64 = Je sort du restaurant. Heureusement, il fait encore nuit.
+Vlatyr_ChezBoyardee_MainQuest0_65 = Il est temps d-
+Vlatyr_ChezBoyardee_MainQuest0_66 = Hey, gaillard.
+Vlatyr_ChezBoyardee_MainQuest0_67 = Une sorte de chasseur s'approche de moi. Quoi encore ?       
+Vlatyr_ChezBoyardee_MainQuest0_68 = Je cherche une galinette cendrée. Tu en as vu une ?
+Vlatyr_ChezBoyardee_MainQuest0_69 = Une quoi ?
+Vlatyr_ChezBoyardee_MainQuest0_70 = Un oiseau ! Un petit poulet ! Un petit poulet qui vole !
+Vlatyr_ChezBoyardee_MainQuest0_71 = Je suis en train d'en chasser. Mais je n'arrive pas à en trouver.
+Vlatyr_ChezBoyardee_MainQuest0_72 = Je ne pense pas que vous trouverez un tel oiseau dans une ville.
+Vlatyr_ChezBoyardee_MainQuest0_73 = Hmm.... Tu penses ?
+Vlatyr_ChezBoyardee_MainQuest0_74 = J'avais demandé au bon vieux Harold. "Il y en a plein en Vlatyr", qu'il m'a dit.
+Vlatyr_ChezBoyardee_MainQuest0_75 = Il a du mal me comprendre.
+Vlatyr_ChezBoyardee_MainQuest0_76 = Ou alors tu n'as rien compris. Vlatyr est aussi une région...
+Vlatyr_ChezBoyardee_MainQuest0_77 = Bon sang. Je vais juste rentrer à la maison. Peut être que je vais pouvoir en trouver une la bas.
+Vlatyr_ChezBoyardee_MainQuest0_78 = Si tu trouves une galinette cendrée, ou n'importe quel oiseau, viens me voir.
+Vlatyr_ChezBoyardee_MainQuest0_79 = Je t'aiderai à la chasser. Je suis un chasseur expert.
+Vlatyr_ChezBoyardee_MainQuest0_80 = Le chasseur s'en va. Quelle étrange rencontre.
+Vlatyr_ChezBoyardee_MainQuest0_81 = Il est temps d'attaquer les cibles.
+Vlatyr_ChezBoyardee_MainQuest0_82 = Rickey se cache à RickeyLand, son parc d'attractions.
+Vlatyr_ChezBoyardee_MainQuest0_83 = L'archer est pour le moment dans le village de Swamtyr.
+Vlatyr_ChezBoyardee_MainQuest0_84 = Je dois faire attention. J'ai déjà trop perdu de temps. Je ne risque d'avoir le temps d'en attaquer qu'un seul.
+
+# ---------------------------------------------------------
+# -------------- Chez Marcel ------------------------------
+# ---------------------------------------------------------
+
+ChezMarcel_Marcel_Default_1 = Eh, gaillard. Tu as trouvé une galinette cendrée ?
+
+ChezMarcel_Marcel_AboutYou_1 = Je suis juste un chasseur local. Rien de plus.
+ChezMarcel_Marcel_AboutYou_2 = J'aime chasser les galinettes et boire des bieres avec mes amis.
+ChezMarcel_Marcel_AboutYou_3 = Tu connais le bon vieux Harold ? Je bois avec lui de temps en temps.
+ChezMarcel_Marcel_AboutYou_4 = Même si, il ne chasse pas. Il dit qu'il n'aime pas les armes. Je me demande pourquoi...
+
+ChezMarcel_Marcel_AboutRickey_1 = Rickey ? C'est quoi, un oiseau ?
+ChezMarcel_Marcel_AboutRickey_2 = Je suis désolé, je ne m'intéresse qu'aux animaux. Je suis un chasseur, tu sais.
+ChezMarcel_Marcel_AboutRickey_3 = Mais Harold devrait être capable de t'aider avec ces trucs compliqués.
+
+ChezMarcel_Marcel_AboutArcher_1 = Oh, lui ? Je ne l'aime pas...
+ChezMarcel_Marcel_AboutArcher_2 = Il est venu il y a plusieurs mois de cela. J'en ai déjà marre.
+ChezMarcel_Marcel_AboutArcher_3 = Il ne peut pas s'empecher de se vanter d'avoir tuer un ogre.
+ChezMarcel_Marcel_AboutArcher_4 = Je le dit ! Chasser des ogres, c'est de la triche. Les galinettes sont supérieures.
+ChezMarcel_Marcel_AboutArcher_5 = Et je ne le vois pas chasser des galinettes. Ah ça non !
+ChezMarcel_Marcel_AboutArcher_6 = Il passe ses journées à Swamtyr, à se vanter de ses exploits. C'est ringard...
+
+ChezMarcel_Marcel_ArcherQuestDone_1 = On a montré à ce naze ce que la chasse veut vraiment dire.
+ChezMarcel_Marcel_ArcherQuestDone_2 = Bon débaras, aussi... Il était pénible.
+ChezMarcel_Marcel_ArcherQuestDone_3 = Quand même. Je n'arrive pas à croire qu'il voulait tuer toutes les galinettes de Vlatyr.
+ChezMarcel_Marcel_ArcherQuestDone_4 = Je suis le seul à pouvoir faire ça !
+
+ChezMarcel_Marcel_ArcherQuest2_1 = Maintenant, pour le convaincre de m'aider à vaincre l'archer...
+ChezMarcel_Marcel_ArcherQuest2_2 = Eh, gaillard. Tu as trouvé une galinette cendrée ?
+ChezMarcel_Marcel_ArcherQuest2_3 = Oh, je sais. Il va surement m'aider si je lui dis ça.
+ChezMarcel_Marcel_ArcherQuest2_4 = Non, mais j'ai une mauvaise nouvelle. C'est l'archer...
+ChezMarcel_Marcel_ArcherQuest2_5 = Lui ?! Ne me dit pas qu'il a encore tué un ogre...
+ChezMarcel_Marcel_ArcherQuest2_6 = Par pitié, je ne vais jamais en entendre la fin.
+ChezMarcel_Marcel_ArcherQuest2_7 = Non, non. J'ai des nouvelles bien plus troublantes.
+ChezMarcel_Marcel_ArcherQuest2_8 = Il semblerait qu'il ai décidé de tuer toutes les galinettes de la région.
+ChezMarcel_Marcel_ArcherQuest2_9 = Quoi ?!
+ChezMarcel_Marcel_ArcherQuest2_10 = Si il réussit, vous pouvez imaginer à quel point il va s'en vanter.
+ChezMarcel_Marcel_ArcherQuest2_11 = Inacceptable ! Ce sera la fin de la chasse à Vlatyr !
+ChezMarcel_Marcel_ArcherQuest2_12 = Je ne vais plus pouvoir chasser de galinettes cendrée !
+ChezMarcel_Marcel_ArcherQuest2_13 = Je ne peux pas le laisser faire ça ! Ou est ce monstre ?
+ChezMarcel_Marcel_ArcherQuest2_14 = Parfait.
+ChezMarcel_Marcel_ArcherQuest2_15 = Il est dans le marais. Il est probablement déjà en train de tuer la faune locale.
+ChezMarcel_Marcel_ArcherQuest2_16 = Je vais le tuer ! Il n'aura pas mes galinettes !
+ChezMarcel_Marcel_ArcherQuest2_17 = Le chasseur court en direction du marais. Parfait.
+ChezMarcel_Marcel_ArcherQuest2_18 = Maintenant, il va m'aider à m'occuper de l'archer.
+ChezMarcel_Marcel_ArcherQuest2_19 = Ce sale forban ne pourra pas m'échapper maintenant.
+ChezMarcel_Marcel_ArcherQuest2_20 = Il est temps d'aller au marais. Je ne veux pas qu'il se perde.
+
+
+# ---------------------------------------------------------
+# ------------- Intersection ------------------------------
+# ---------------------------------------------------------
+
+
+Intersection_Intro_1 = J'arrive à une intersection. Le chemin se divise en deux.
+Intersection_Intro_2 = A gauche, le chemin va vers une sorte de parc d'attractions. Il est peut-être ouvert ?
+Intersection_Intro_3 = A droite, le chemin continue et entre au loin dans une forêt dense.
+Intersection_Intro_4 = Je dois choisir le chemin à prendre. Mais lequel est le bon ?
+
+# ---------------------------------------------------------
+# --------------- Rickeyland ------------------------------
+# ---------------------------------------------------------
+
+RickeyLandEntrance_RickeyGoesToFortress_1 = Quand j'arrive au parc, je suis acceuilli par un tank. tank.
+RickeyLandEntrance_RickeyGoesToFortress_2 = Pardon ?!
+RickeyLandEntrance_RickeyGoesToFortress_3 = Ah Ah ! Il est temps d'y aller !
+RickeyLandEntrance_RickeyGoesToFortress_4 = La forteresse et son or seront bientôt à moi !
+RickeyLandEntrance_RickeyGoesToFortress_5 = Vous là bas ! Dégagez du chemin !
+RickeyLandEntrance_RickeyGoesToFortress_6 = Le tank commence à avancer dans ma direction.
+RickeyLandEntrance_RickeyGoesToFortress_7 = Je me décale, et le regarde disparaitre à l'horizon.
+RickeyLandEntrance_RickeyGoesToFortress_8 = Bon sang ! J'arrive trop tard...
+RickeyLandEntrance_RickeyGoesToFortress_9 = Il se dirige vers la forteresse. Je doit le rattraper.
+
+RickeyLandEntrance_Door_No_1 = Je n'ai pas besoin d'entrer dans le parc.
+
+
+# ---------------------------------------------------------
+# ------------------- Marais ------------------------------
+# ---------------------------------------------------------
+
+Swamp_Intro_1 = Le marais de Vlatyr...
+Swamp_Intro_2 = Donc l'archer se cache quelque part à l'intérieur.
+Swamp_Intro_3 = Je dois le trouver. Il ne doit pas attaquer la forteresse.
+
+Swamp_ArcherQuest2_1 = Après avoir marché un peu, j'arrive à un pont.
+Swamp_ArcherQuest2_2 = Quelque est dessus, en train de regarder de l'autre coté de la rivière.
+Swamp_ArcherQuest2_3 = Est-ce l'archer ? Il est temps de le découvrir.
+Swamp_ArcherQuest2_4 = Je m'approche de lui. Il me remarque, et se retourne.
+Swamp_ArcherQuest2_5 = Et bien, bonjour.
+Swamp_ArcherQuest2_6 = Je suis l'incroyable archer. Je suis sur que vous avez déjà entendu parlé de mes exploits.
+Swamp_ArcherQuest2_7 = Tueur de l'ogre du marais, chasseur d'exception, et bien plus !
+Swamp_ArcherQuest2_8 = Mais... ne parlons pas de l'autre type et du dragon, d'accord ? Je suis le plus important.
+Swamp_ArcherQuest2_9 = Enfin ! Qu'est ce qui vous amène ici ? Oh, je sais !
+Swamp_ArcherQuest2_10 = Vous avez besoin de protection ? Vous avez trop peur de marcher seul dans les rues ?
+Swamp_ArcherQuest2_11 = Je peux vous aider ! Je peux vous protéger de n'importe quel danger.
+Swamp_ArcherQuest2_12 = Euh, non. Je n'ai pas besoin de tes services.
+Swamp_ArcherQuest2_13 = Quel regard... Vous êtes différents.
+Swamp_ArcherQuest2_14 = Vous... êtes un rival, pas vrai ?
+Swamp_ArcherQuest2_15 = Pourquoi venir ici ? Vous voulez me combattre, moi, l'incroyable archer ?
+Swamp_ArcherQuest2_16 = Tu vas attaquer la forteresse Braise. Je ne peux pas te laisser faire.
+Swamp_ArcherQuest2_17 = Attaquer ? Quelle blague ! Je ne vais que la visiter un peu.
+Swamp_ArcherQuest2_18 = Je marcherai dans les couloirs vides en remplissant mes poches d'artefactes précieux.
+Swamp_ArcherQuest2_19 = On m'a dit qu'ils étaient puissant. J'ai hâte de les tester.
+Swamp_ArcherQuest2_20 = Avec eux, je serai invicible ! Je serai le plus grand archer du continent !
+Swamp_ArcherQuest2_21 = Plus jamais je ne serais ridiculisé par des civils sans armes, plus jamais !
+Swamp_ArcherQuest2_22 = Je chasserai les prises les plus dangereuse. Je deviendrai une légende !
+Swamp_ArcherQuest2_23 = Je n'autorise pas cela. Rends-toi tant que tu le peux.
+Swamp_ArcherQuest2_24 = Me rendre ? Je suis un archer, et toi ? Tu n'as rien !
+Swamp_ArcherQuest2_25 = Quelques cordes ne vont pas t'aider à me vaincre.
+Swamp_ArcherQuest2_26 = L'archer fait un backflip et disparait dans un arbre.
+Swamp_ArcherQuest2_27 = Ou est-il ? Je ne peux plus le voir.
+Swamp_ArcherQuest2_28 = Vous pensez pouvoir empecher mon ascension au rang de légende ? Evitez ça !
+Swamp_ArcherQuest2_29 = Soudain, j'entend une flêche être tirée depuis un arbre non loin de moi.
+Swamp_ArcherQuest2_30 = Je n'ai quasiment pas eu assez de temps pour l'esquiver, mais j'ai réussit.
+Swamp_ArcherQuest2_31 = Il tire encore depuis un arbre différent. Je l'esquive une fois de plus.
+Swamp_ArcherQuest2_32 = Je dois partir de là. Je ne peux pas le combatre comme ça.
+Swamp_ArcherQuest2_33 = Je prend la fuite. Il n'a pas l'air de me suivre.
+Swamp_ArcherQuest2_34 = Maintenant, comment vais-je m'occuper de lui.
+Swamp_ArcherQuest2_35 = J'ai besoin d'une arme, mais apparement elles ont toutes été vendus.
+Swamp_ArcherQuest2_36 = ... Peut être que le chasseur étrange peux m'aider. Si il sait tirer...  
+Swamp_ArcherQuest2_37 = Je devrais le trouver chez lui.
+
+Swamp_ArcherQuest3_1 = Ah. Te voila, gaillard.
+Swamp_ArcherQuest3_2 = J'avais cru voir ce foutu archer par ici, mais j'ai eu tord.
+Swamp_ArcherQuest3_3 = Il n'y a ici que des arbres et des rochers...
+Swamp_ArcherQuest3_4 = Je me demande ou est passé cette enflure. Je dois lui donner une bonne leçon.
+Swamp_ArcherQuest3_5 = Suis-moi. Je peux te guider à l'endroit ou je l'ai vu la dernière fois.
+Swamp_ArcherQuest3_6 = Mais soi près. J'ai failli mourrir.
+Swamp_ArcherQuest3_7 = Ne t'inquiête pas. Je suis juste derrière toi, gaillard. 
+
+Swamp_ArcherQuest4_1 = Nous arrivons de nouveau au pont.
+Swamp_ArcherQuest4_2 = Mais ou est l'archer ? Ca serait pénible si il est parti.
+Swamp_ArcherQuest4_3 = Ou est ce foutu tueur de galinettes ? OU IL EST ?!
+Swamp_ArcherQuest4_4 = Ne crie pas. Je suis là.
+Swamp_ArcherQuest4_5 = Sa voix viens des arbres. Il se cache toujours.
+Swamp_ArcherQuest4_6 = Donc tu as ammené un ami ? Tu avais peur ?
+Swamp_ArcherQuest4_7 = Montres toi ! Combattons !
+Swamp_ArcherQuest4_8 = Ah ! Je connais mes faiblesses. Je ne ferais pas cette erreur.
+Swamp_ArcherQuest4_9 = Si tu veux te battre, tu va devoir le faire comme ça.
+Swamp_ArcherQuest4_10 = Au sol !
+Swamp_ArcherQuest4_11 = Une flêche est soudainement tirée. Je me baisse, et l'évite de justesse.
+Swamp_ArcherQuest4_12 = Espèce de petit... Tu ne pourras plus grimper dans tes arbres quand j'en aurais fini avec toi. 
+Swamp_ArcherQuest4_13 = Gaillard ! Aides moi à le repérer. Je vais lui tirer dessus.
+Swamp_ArcherQuest4_14 = Il pense qu'il est le meilleur tireur ici. Il se trompe.
+Swamp_ArcherQuest4_15 = C'est pour les galinettes cendrées !
+Swamp_ArcherQuest4_16 = Nous nous préparons à chasser l'archer.
+
+Swamp_ArcherQuest4_17 = Argh !
+Swamp_ArcherQuest4_18 = L'archer tombe au sol. On a réussit.
+Swamp_ArcherQuest4_19 = Et bien ! C'était sympa ! Bon boulot, gaillard.
+Swamp_ArcherQuest4_20 = Tu sais quoi ? Je vais te laisser gérer le reste.
+Swamp_ArcherQuest4_21 = Tout ces tirs m'ont données envie de chasser de la galinette.
+Swamp_ArcherQuest4_22 = Si tu as encore besoin de moi. Viens me voir chez moi.
+Swamp_ArcherQuest4_23 = Maintenant, à bientôt...
+Swamp_ArcherQuest4_24 = Le chasseur part. Parfait.
+Swamp_ArcherQuest4_25 = Je vais pouvoir m'occuper de l'archer comme je veux.
+Swamp_ArcherQuest4_26 = Je l'appoche. I'll essaie de se relever.
+Swamp_ArcherQuest4_27 = T- Tu... tu m'as vaincu... encore...
+Swamp_ArcherQuest4_28 = Pourquoi est-ce que je me fais toujours battre par des civils sans armes ?
+Swamp_ArcherQuest4_29 = D'abord l'autre a tué le dragon, maintenant toi... Pourquoi ça m'arrive ?
+Swamp_ArcherQuest4_30 = Pourquoi voulais-tu mettre à sac la forteresse ?
+Swamp_ArcherQuest4_31 = Je voulais simplement un peu de célebrité. Je voulais simplement me faire des amis.
+Swamp_ArcherQuest4_32 = Peu importe ou je vais, les gens m'ignorent.
+Swamp_ArcherQuest4_33 = Je me suis did que peut être, si je devenais célèbre, ils me parleraient.
+Swamp_ArcherQuest4_34 = Je suis venu, j'ai tué l'ogre du marais. Mais...
+Swamp_ArcherQuest4_35 = Il semblerait que la gloire n'est pas le seul ingrédient pour l'amitié.
+Swamp_ArcherQuest4_36 = Peu de temps après, le seigneur Braise a été tué dans sa forteresse.
+Swamp_ArcherQuest4_37 = J'avais entendu dire qu'elle contenait plusieurs artefacts. Dont certains très puissant.
+Swamp_ArcherQuest4_38 = Donc j'ai décidé d'entrer dans la forteresse vide pour les trouver. En espérant que l'un d'entre eux puisse régler mon problème.
+Swamp_ArcherQuest4_39 = ... Je ne pense pas qu'un artefact puisse t'aider...
+Swamp_ArcherQuest4_40 = Peu importe. Promet juste de ne pas piller la forteresse. Il n'y aura pas de prochaine fois.
+Swamp_ArcherQuest4_41 = B- Bien sur ! Je le promet !
+Swamp_ArcherQuest4_42 = Super. Maintenant dégage. Je n'ai pas toute la nuit.
+Swamp_ArcherQuest4_43 = L'archer traverse le pont et quitte le marais.
+Swamp_ArcherQuest4_44 = Bien... Je l'ai fait.
+Swamp_ArcherQuest4_45 = Je l'ai laissé fuir car il était si pathétique...
+Swamp_ArcherQuest4_46 = Bien. Il est temps de s'occuper de Rickey, le PDG de RickeyLand.
+Swamp_ArcherQuest4_47 = Il devrait être dans son parc d'attraction. Mais pour combien de temps ?
+Swamp_ArcherQuest4_48 = Je suis peut être déjà trop tard. Je dois me dépecher.
+
+
+# ---------------------------------------------------------
+# ------------------ Swamtyr ------------------------------
+# ---------------------------------------------------------
+
+Swamtyr_Car_1 = Une voiture brulée. Quelqu'un a été plus rapide que moi.
+
+Swamtyr_OldMan_Default_1 = Cet archer est problématique...
+
+Swamtyr_OldMan_ArcherGone_1 = L'archer est parti, enfin. C'est un soulagement.
+Swamtyr_OldMan_ArcherGone_2 = Maintenant, je vas pouvoir aller chercher des champignions en paix.
+
+Swamtyr_OldMan_ArcherQuest0_1 = Eh, toi. Tu as vu un archer dans le coin ?
+Swamtyr_OldMan_ArcherQuest0_2 = Hein ? Oh, bonjour. Oui, je connais un archer qui vis ici.
+Swamtyr_OldMan_ArcherQuest0_3 = Il vit dans la maison juste là.
+Swamtyr_OldMan_ArcherQuest0_4 = Le vieillard me montre du doigt la maison à gauche. Parfait.
+Swamtyr_OldMan_ArcherQuest0_5 = Mais si vous voulez lui parler, vous manquez de chance.
+Swamtyr_OldMan_ArcherQuest0_6 = Il est parti pour le marais il y a une heure. Il a parlé de "s'entrainer avant l'expédition".
+Swamtyr_OldMan_ArcherQuest0_7 = Super... Maintenant je vais devoir fouiller le marais pour le trouver.
+Swamtyr_OldMan_ArcherQuest0_8 = Mais pourquoi voulez-vous lui parler, si je peux me permettre.
+Swamtyr_OldMan_ArcherQuest0_9 = Il.... va faire une erreur. Et je dois l'en empecher.   
+Swamtyr_OldMan_ArcherQuest0_10 = Je vois. Ce garçon pose beaucoup de problèmes.
+Swamtyr_OldMan_ArcherQuest0_11 = Depuis qu'il a tué l'ogre du marais, il n'arrête pas de s'en vanter.
+Swamtyr_OldMan_ArcherQuest0_12 = Il m'a même interdit d'entrer le marais sans lui. Quelle blague.
+Swamtyr_OldMan_ArcherQuest0_13 = Intéressant... Je lui en parlerait.
+Swamtyr_OldMan_ArcherQuest0_14 = Bien, je dois maintenant fouiller le marais. Le temps presse.   
+
+# ---------------------------------------------------------
+# ---------------- Montagnes ------------------------------
+# ---------------------------------------------------------
+
+
+Mountains_Sign_Default_1 = "Demeure du grand sorcier de Vlatyr"
+Mountains_Sign_Default_2 = Ou est la maison ?
+
+Mountains_Car_1 = On dirait qu'aucune voiture n'échappe au Seigneur Braise. Je ne sais même pas comment elle est arrivée là.
+
+Mountains_KeysQuest0_1 = "Demeure du grand sorcier de Vlatyr" est écrit sur le panneau.
+Mountains_KeysQuest0_2 = Mais quelque chose ne va pas. Ou est la maison ?
+Mountains_KeysQuest0_3 = GARDE m'a dit que le sorcier vivant par ici, mais je ne peux pas le trouver.
+Mountains_KeysQuest0_4 = Je suppose que le panneau est juste mal placé ? Peut-être qu'il vit autre part.
+Mountains_KeysQuest0_5 = Bien... on est dans des montagnes. Il pourrait être n'importe ou.
+Mountains_KeysQuest0_6 = Attend, attend, attend !
+Mountains_KeysQuest0_7 = Un homme en robes violettes sort de nulle part, et commence à me crier dessus.  
+Mountains_KeysQuest0_8 = Qui êtes-vous ?! Vous êtes le sorcier ?
+Mountains_KeysQuest0_9 = Vous osez insulter mon panneau, insolent ! Je vais vous punir pour ça !
+Mountains_KeysQuest0_10 = Je suis le grand sorcier de Vlatyr, l'un des meilleurs du pays ! 
+Mountains_KeysQuest0_11 = Et ça, c'est ma maison ! Le panneau dit la vérité !
+Mountains_KeysQuest0_12 = Il pointe l'herbe. Il n'y a rien ici...
+Mountains_KeysQuest0_13 = Je suis désolé... Je ne suis pas sur de comprendre...
+Mountains_KeysQuest0_14 = QUOI ?! C'est facile pourtant ! Tu vois bien ma belle maison ?
+Mountains_KeysQuest0_15 = Je vis ici ! C'est la plus grande maison du monde !
+Mountains_KeysQuest0_16 = Il est... fou, non ?
+Mountains_KeysQuest0_17 = Hey ! Tu m'écoutes ?
+Mountains_KeysQuest0_18 = O- Oui ! Bien sur !
+Mountains_KeysQuest0_19 = Donc, excuse-toi auprès de mon panneau et de ma magnifique demeure.
+Mountains_KeysQuest0_20 = Euh... pardon ?
+Mountains_KeysQuest0_21 = Super ! Nous sommes amis maintenant !
+Mountains_KeysQuest0_22 = Hein ?
+Mountains_KeysQuest0_23 = Je... devrais lui demander à propos des clés.
+Mountains_KeysQuest0_24 = Cool... je peux vous poser une question ?
+Mountains_KeysQuest0_25 = Bien sur ?! Tu as besoin de quelque chose ? Un renard magique ?!
+Mountains_KeysQuest0_26 = N- Non ! Je voulais vous parler de la forteresse Braise.
+Mountains_KeysQuest0_27 = J'ai entendu que des clés ont été volées, et j'en ai besoin pour entrer à l'intérieur.
+Mountains_KeysQuest0_28 = Sauriez-vous ou se trouvent ces clés, par hasard ? 
+Mountains_KeysQuest0_29 = Des clés ?! Ne manquez pas de respect à Talia !
+Mountains_KeysQuest0_30 = Talia ?
+Mountains_KeysQuest0_31 = Je l'ai sauvé de ce monstrueux garde à la forteresse.
+Mountains_KeysQuest0_32 = Je l'aime. Nous venons de nous marier !
+Mountains_KeysQuest0_33 = Hein ? Hein ?
+Mountains_KeysQuest0_34 = Donc... vous êtes marié à des clés ?
+Mountains_KeysQuest0_35 = N'osez pas la comparer aux autres clés !
+Mountains_KeysQuest0_36 = Elle leur ressemble, mais elle est différente !
+Mountains_KeysQuest0_37 = Il y a un dragon engravé sur elle !
+Mountains_KeysQuest0_38 = Donc c'est une clé normale...
+Mountains_KeysQuest0_39 = Je comprends ! Vous voulez kidnapper Talia ! Vous voulez voler ma femme !
+Mountains_KeysQuest0_40 = Je ne vais pas vous laisser faire ! Je vais vous tuer !
+Mountains_KeysQuest0_41 = Le sorcier commence à lancer des sorts. Je vais avoir des ennuis...
+
+Mountains_KeysQuest0_42 = Impossible ! Comment as-tu esquivé mes attaques magiques ?
+Mountains_KeysQuest0_43 = Vite ! Je dois faire une retraite tactique ! A ma maison !
+Mountains_KeysQuest0_44 = Le sorcier prend la fuite.
+Mountains_KeysQuest0_45 = En fuyant, il fait tomber les clés de la forteresse.
+Mountains_KeysQuest0_46 = Bien... Je suppose que j'ai les clés maintenant.
+Mountains_KeysQuest0_47 = Il est temps d'aller retourner voir GARDE. Il va vouloir ses clés.
+
+# ---------------------------------------------------------
+# --------------- Forteresse ------------------------------
+# ---------------------------------------------------------
+
+Fortress_Arrival_1 = Après avoir marché un peu, j'arrive enfin à la forteresse.
+Fortress_Arrival_2 = Effrayant....
+Fortress_Arrival_3 = Donc, le dragon vit ici ? Une forteresse pour lui tout seul...
+Fortress_Arrival_4 = Il est temps d'entrer à l'intérieur. Je ne sais pas comment je vais le tuer par contre....
+
+Fortress_Gate_MainQuest5_1 = Je n'ai plus besoin d'y retourner.
+
+Fortress_Gate_GUARD_MainQuest2_1 = Il y a un homme sur le balcon. Il semble surveiller l'entrée.
+Fortress_Gate_GUARD_MainQuest2_2 = Il sait sans doute ou se trouve le dragon. Je devrais lui parler.
+Fortress_Gate_GUARD_MainQuest2_3 = Excusez-moi, monsieur. J'aimerais entrer dans cette forteresse.
+Fortress_Gate_GUARD_MainQuest2_4 = Euh ? Vous voulez entrer dans la forteresse ? Pourquoi pas...
+Fortress_Gate_GUARD_MainQuest2_5 = C'était aussi facile que ça ?
+Fortress_Gate_GUARD_MainQuest2_6 = Attend une seconde ! Je ne peux pas vous laisser entrer sans vérifier vos intentions !
+Fortress_Gate_GUARD_MainQuest2_7 = Ou pas... au moins j'ai essayé.
+Fortress_Gate_GUARD_MainQuest2_8 = Pourquoi voulez-vous entrer dans la forteresse ? Hein, Hein ?
+Fortress_Gate_GUARD_MainQuest2_9 = Laissez-moi deviner. Vous voulez tuer notre bienveillant seigneur Braise, et voler son trésor ?
+Fortress_Gate_GUARD_MainQuest2_10 = Vous voulez le garder pour vous, et devenir riche ?
+Fortress_Gate_GUARD_MainQuest2_11 = Vous voulez empêcher notre magnifique seigneur de bruler des voitures ?
+Fortress_Gate_GUARD_MainQuest2_12 = Vous... attend, c'est plutôt une bonne chose à faire, ça...
+Fortress_Gate_GUARD_MainQuest2_13 = Il... peu importe. Je vais juste prétendre ne pas vouloir tuer le dragon.
+Fortress_Gate_GUARD_MainQuest2_14 = Oh, non. Je ne veux pas le tuer. Je veux lui payer tribut.
+Fortress_Gate_GUARD_MainQuest2_15 = J'ai apporté... de l'or et des trésors. J'espère qu'il les aimera.
+Fortress_Gate_GUARD_MainQuest2_16 = Oh... C'est un bon tribut pour notre seigneur.
+Fortress_Gate_GUARD_MainQuest2_17 = Je suis sur qu'il appréciera tout... attendez...
+Fortress_Gate_GUARD_MainQuest2_18 = Vous n'avez pas l'air de porter beaucoup d'or... Seriez-vous en train de me... mentir ?
+Fortress_Gate_GUARD_MainQuest2_19 = Oh... non. Je n'ai juste pas beaucoup d'argent.
+Fortress_Gate_GUARD_MainQuest2_20 = Je suis un pauvre fermier, payant tribut pour mes récoltes.
+Fortress_Gate_GUARD_MainQuest2_21 = Euh... Mensonge, ou pas mensonge ? C'est la question...
+Fortress_Gate_GUARD_MainQuest2_22 = Bon sang ! Je ne vais pas encore perdre mon travail pour une erreur pareil !
+Fortress_Gate_GUARD_MainQuest2_23 = Bien ! Je sais quoi faire pour m'assurer de vos intentions.
+Fortress_Gate_GUARD_MainQuest2_24 = Répondez-moi ! Allez vous tuer le seigneur Braise ?
+Fortress_Gate_GUARD_MainQuest2_25 = Euh... non ?
+Fortress_Gate_GUARD_MainQuest2_26 = Euh..... Euh.... Est-ce la vérité ?
+Fortress_Gate_GUARD_MainQuest2_27 = Je sais pas... Je sais pas... Je ne veux pas perdre mon travail.
+Fortress_Gate_GUARD_MainQuest2_28 = Je jure que je ne vais pas tuer le seigneur Braise.
+Fortress_Gate_GUARD_MainQuest2_29 = .... Je vois.... Très bien... Je vous fais confiance.
+Fortress_Gate_GUARD_MainQuest2_30 = Mais ! Je suis navré. Je ne peux pas vous laisser entrer pour le moment.
+Fortress_Gate_GUARD_MainQuest2_31 = Vous voyez, le seigneur Braise est présentement très occupé. Donc vous ne pouvez pas le déranger.
+Fortress_Gate_GUARD_MainQuest2_32 = Si vous voulez le faire, vous devez avoir un pass VIP.
+Fortress_Gate_GUARD_MainQuest2_33 = Un pass VIP, sérieusement ? Une telle chose existe ?
+Fortress_Gate_GUARD_MainQuest2_34 = Si vous voulez vous en procurer un, vous devez aller à RickeyLand.
+Fortress_Gate_GUARD_MainQuest2_35 = C'est un parc d'attractions qui est à côté du marais. Il devrait être ouvert maintenant.
+Fortress_Gate_GUARD_MainQuest2_36 = Grâce à un partenariat, des pass VIP sont distribuées tous les jours à midi.
+Fortress_Gate_GUARD_MainQuest2_37 = Donc, allez là-bas, obtenez un pass, et revenez. J'attendrais votre retour ici.
+Fortress_Gate_GUARD_MainQuest2_38 = Oh... et appelez-moi GARDE. C'est mon nom de code durant mon ancien travail.
+
+Fortress_Gate_GUARD_Default = Avez-vous besoin de mon aide, paysan ?
+
+Fortress_Gate_GUARD_MainQuest3_1 = Allez à RickeyLand, et obtenez un pass VIP.
+Fortress_Gate_GUARD_MainQuest3_2 = Vous ne pourrez pas entrer tant que vous n'en avez pas un.
+
+Fortress_Gate_GUARD_MainQuest3_3 = Vous... vous avez obtenu l'autographe ?!
+Fortress_Gate_GUARD_MainQuest3_4 = Bon sang ! J'avais quasiment perdu espoir de l'obtenir un jour.
+Fortress_Gate_GUARD_MainQuest3_5 = Ce n'est pas facile quand votre adversaire à des épées...
+Fortress_Gate_GUARD_MainQuest3_6 = Je peux entrer maintenant ? J'ai obtenu votre autographe.
+Fortress_Gate_GUARD_MainQuest3_7 = .... Ah. C'est embarrassant...
+Fortress_Gate_GUARD_MainQuest3_8 = J'ai... perdu la clé de la forteresse...
+Fortress_Gate_GUARD_MainQuest3_9 = Et la porte est fermée à clé. Donc je ne peux même pas sortir.
+Fortress_Gate_GUARD_MainQuest3_10 = Ou l'avez-vous perdu ?
+Fortress_Gate_GUARD_MainQuest3_11 = Et bien, vous voyez. Il y a un sorcier autoproclamé qui vit dans le coin.
+Fortress_Gate_GUARD_MainQuest3_12 = La plupart du temps, il reste chez lui. Mais pas aujourd'hui on dirait.
+Fortress_Gate_GUARD_MainQuest3_13 = Il est venu, et a volé les clés avec sa magie.
+Fortress_Gate_GUARD_MainQuest3_14 = Ne me demandez pas pourquoi. Je ne sais pas pourquoi quelqu'un aurait besoin de ces clés.
+Fortress_Gate_GUARD_MainQuest3_15 = ...Je vois. Je vais les retrouver.
+Fortress_Gate_GUARD_MainQuest3_16 = Vous allez faire ça ? Merci !
+
+Fortress_Gate_GUARD_MainQuest4_1 = Vous devez retrouver le sorcier qui a volé les clés.
+Fortress_Gate_GUARD_MainQuest4_2 = Il vit dans les montagnes, non loin d'ici.
+
+Fortress_Gate_GUARD_OtherJob_1 = J'ai commencé ma carrière en tant que garde du corps pour un politicien.
+Fortress_Gate_GUARD_OtherJob_2 = J'ai dû le suivre partout dans la capitale, Aajotyr.
+Fortress_Gate_GUARD_OtherJob_3 = Mais un jour, j'ai été trompé par un assassin très bien déguisé.
+Fortress_Gate_GUARD_OtherJob_4 = Pour faire court, le politicien est mort, et j'ai perdu mon travail.
+Fortress_Gate_GUARD_OtherJob_5 = J'ai cherché un nouvel emploi pendant des mois. Personne ne voulait d'un garde du corps raté.
+Fortress_Gate_GUARD_OtherJob_6 = Mais il y a un mois, le seigneur Braise m'a engagé ! Il a vu du potentiel en moi.
+
+Fortress_Gate_GUARD_Assassin_1 = Vous savez, l'assassinat est arrivé il y a quelques mois.
+Fortress_Gate_GUARD_Assassin_2 = Personne ne sait qui est l'assassin. Il a disparu juste après les faits.
+Fortress_Gate_GUARD_Assassin_3 = Mais laissez-moi vous dire, c'est vraiment louche !
+Fortress_Gate_GUARD_Assassin_4 = Le politicien en question menait l'enquête sur un étrange culte. Quelque chose à propos... d'invocations ?
+Fortress_Gate_GUARD_Assassin_5 = I n'a parlé de son enquête à personne, même pas à moi.
+Fortress_Gate_GUARD_Assassin_6 = Donc, quand il est mort, son enquête l'a suivi dans la tombe.
+Fortress_Gate_GUARD_Assassin_7 = Je parie mon revolver que le culte avait quelque chose à voir avec ça.
+Fortress_Gate_GUARD_Assassin_8 = Je vais mener ma propre enquête sur eux ! C'est moi que vous le dit !
+Fortress_Gate_GUARD_Assassin_9 = J'ai juste besoin d'argent.... J'en manque un peu pour le moment.
+
+Fortress_Gate_GUARD_Ember_1 = Le seigneur Braise est le généreux seigneur de cette forteresse.
+Fortress_Gate_GUARD_Ember_2 = J'ai été chanceux d'être sélectionné en tant que son garde. C'est un honneur.
+Fortress_Gate_GUARD_Ember_3 = Certains disent qu'il est un monstre, un tyran. Mais laissez-moi vous dire quelque chose.
+Fortress_Gate_GUARD_Ember_4 = Qui m'a donné une chance quand j'avais des problèmes ? Le seigneur Braise ?
+Fortress_Gate_GUARD_Ember_5 = Qui m'a humilié après avoir échoué lors de l'assassinat ? Pas lui.
+Fortress_Gate_GUARD_Ember_6 = Oui, il aime bruler les voitures, les maisons, les récoltes... et les gens.
+Fortress_Gate_GUARD_Ember_7 = Mais au fond, c'est un bon dragon. J'en suis sur.
+Fortress_Gate_GUARD_Ember_8 = Enfin, j'espère.... J'attends encore mon salaire du mois dernier.
+
+
+Fortress_MainQuest5_1 = Ah, vous avez trouvé les clés ! Bien joué !
+Fortress_MainQuest5_2 = Oui, j'ai vaincu le sorcier qui les avait volés.
+Fortress_MainQuest5_3 = Bien. Au moins c'est un problème de moins pour la région.
+Fortress_MainQuest5_4 = Il est connu pour faire des choses illogiques dans cette dernière.
+Fortress_MainQuest5_5 = Par exemple, il vole des portes et il transforme des voitures en lapins.
+Fortress_MainQuest5_6 = Il n'y a pas l'air d'avoir un sens profond à ces actes. C'est surtout pénible...
+Fortress_MainQuest5_7 = Je vois... Et bien, il ne devrait plus le faire pendant un moment, je pense.
+Fortress_MainQuest5_8 = Oui. Mais bon, vous pouvez entrer dans la forteresse maintenant.
+Fortress_MainQuest5_9 = Allez payer tribut à notre seigneur. Souvenez-vous juste de me rendre les clés avant de partir.
+Fortress_MainQuest5_10 = Bien sur.
+Fortress_MainQuest5_11 = Enfin. Après tout ce temps, je vais pouvoir entrer dans la forteresse.
+Fortress_MainQuest5_12 = J'ouvre la porte avec les clés. C'est la fin.
+Fortress_MainQuest5_13 = Attendez un instant !
+Fortress_MainQuest5_14 = J'entends une voix familière. C'est celle du samurai !
+Fortress_MainQuest5_15 = Je suis venu terrasser le lézard géant sans honneur, le seigneur Braise ! 
+Fortress_MainQuest5_16 = Je pense vous avoir déjà déclaré auparavant, que seul moi pourrait le tuer avec mes propres mains.
+Fortress_MainQuest5_17 = Attendez ! Vous ne pouvez pas entrer sans autorisation !
+Fortress_MainQuest5_18 = Un agent de sécurité ? Inefficace ! La mort du lézard géant sans honneur a déjà été décidée !
+Fortress_MainQuest5_19 = Il va falloir me passer sur le corps pour ça, brigand !
+Fortress_MainQuest5_20 = Katsumoto me pousse sur le côté, et entre dans la forteresse.
+Fortress_MainQuest5_21 = GARDE le suit en prenant la porte du balcon.
+Fortress_MainQuest5_22 = Je n'aime pas ça du tout.
+Fortress_MainQuest5_23 = Je veux dire. La solution facile serait de laisser Katsumoto tuer le dragon pour moi.
+Fortress_MainQuest5_24 = Mais il pourrait alors voler ce qu'Harold m'a demandé de prendre. Peu importe ce que c'est.
+Fortress_MainQuest5_25 = Donc, je vais devoir le rattraper.
+Fortress_MainQuest5_26 = J'entre dans la forteresse, il est temps d'en finir.
+Fortress_MainQuest5_27 = Après avoir marché un peu, je trouve GARDE dans un coin.
+Fortress_MainQuest5_28 = GARDE ?! Vous allez bien ?
+Fortress_MainQuest5_29 = Oui... C'est juste... Je suis perdu...
+Fortress_MainQuest5_30 = P- Perdu ?! Mais vous connaissez l'endroit, non ? Vous travaillez ici !
+Fortress_MainQuest5_31 = Et bien... La forteresse est un labyrinthe. Tant de portes, et une seule permet d'atteindre le Seigneur Braise.
+Fortress_MainQuest5_32 = Et je ne me souviens pas de laquelle...
+Fortress_MainQuest5_33 = C'est un problème. Si je ne fais pas attention, je pourrai me perdre.
+Fortress_MainQuest5_34 = Je vais trouver le seigneur Braise, n'ayez crainte.
+Fortress_MainQuest5_35 = Vraiment ? Merci...
+Fortress_MainQuest5_36 = Bien, il est temps d'y aller.
+Fortress_MainQuest5_37 = Je commence à marcher, sans savoir ou je vais.
+
+Fortress_MainQuest5_38 = J'arrive enfin à la chambre du Seigneur Braise.
+Fortress_MainQuest5_39 = Elle est gigantesque, et pleine d'or.
+Fortress_MainQuest5_40 = Etrange... J'ai l'impression de l'avoir déjà vu...
+Fortress_MainQuest5_41 = Peut importe ! Je dois me focaliser sur trouver-
+Fortress_MainQuest5_42 = -Katsumoto... qui est en train de jouer de la flûte.
+Fortress_MainQuest5_43 = Le dragon est à côté de lui. Il a l'air d'être en transe.
+Fortress_MainQuest5_44 = Que fait Katsumoto ?
+Fortress_MainQuest5_45 = Ecoutez-moi donc cette douce mélodie, lézard géant sans honneur.
+Fortress_MainQuest5_46 = Laissez cette belle berceuse vous mener dans les bras de morphée.
+Fortress_MainQuest5_47 = Dormez avec aisance, car cette sieste sera la meilleure de votre longue vie.
+Fortress_MainQuest5_48 = Il est en train de charmer le dragon avec sa flûte ?
+Fortress_MainQuest5_49 = Ca à l'air de marcher pour le moment.
+Fortress_MainQuest5_50 = Oh ?
+Fortress_MainQuest5_51 = Katsumoto a joué une fausse note. Le dragon commence à sortir de sa transe.
+Fortress_MainQuest5_52 = Grr ! Comment oses-tu me charmer avec cette flûte !
+Fortress_MainQuest5_53 = Je vais te rôtir vivant !
+Fortress_MainQuest5_54 = Le souffle ardent du dragon embrase Katsumoto.
+Fortress_MainQuest5_55 = Le samurai tombe au sol, encore fumant.
+Fortress_MainQuest5_56 = Le Seigneur Braise se tourne à présent vers moi. Je suis dans le pétrin...
+Fortress_MainQuest5_57 = Grr ! Cet humain pensait pouvoir me tuer avec un tour aussi nul !
+Fortress_MainQuest5_58 = Et toi, mortel ? Es-tu venu me tuer, toi aussi ?
+Fortress_MainQuest5_59 = Je... J'ai été envoyé par Harold, un local, pour arrêter votre vague de crimes !
+Fortress_MainQuest5_60 = Harold ?! Cet idiot t'a envoyé ? S'il veut vraiment retrouver ses biens, il devrait venir me faire face !
+Fortress_MainQuest5_61 = Ses biens ? Je ne suis pas sur de comprendre...
+Fortress_MainQuest5_62 = Il ne t'a pas dit ce qu'il cherchait vraiment à obtenir ? Hilarant !
+Fortress_MainQuest5_63 = J'adore brûler des voitures, c'est un prank rigolo !
+Fortress_MainQuest5_64 = Mais avec Harold, j'ai décidé de changer un peu. J'ai volé ses clés de voiture !
+Fortress_MainQuest5_65 = Donc maintenant, le seul moyen pour lui de réutiliser sa voiture, c'est de venir ici les chercher !
+Fortress_MainQuest5_66 = Mais, on dirait qu'il a fini par trouver quelqu'un pour y aller à sa place. Quel nul !
+Fortress_MainQuest5_67 = Harold... Je fais vraiment ça pour des clés ?!
+Fortress_MainQuest5_68 = Je dois dire, je suis déçu. Je voulais me venger pour la fois dernière.
+Fortress_MainQuest5_69 = Mais, tu feras un bon prix de consolation.
+Fortress_MainQuest5_70 = Il est temps de mourir, mortel ! Une dernière volonté ?
+Fortress_MainQuest5_71 = Euh.... On peut négocier ?
+Fortress_MainQuest5_72 = Grr ! Non.
+Fortress_MainQuest5_73 = Je dois trouver quelque chose, vite ! Ou je vais finir comme dans mon rêve !
+Fortress_MainQuest5_74 = Je regarde la pièce. Il doit y avoir quelque chose, n'importe quoi.
+Fortress_MainQuest5_75 = Mon regard s'arrête sur la flûte de Katsumoto.
+Fortress_MainQuest5_76 = Peut-être que je peux charmer le dragon une fois de plus, puis le tuer.
+Fortress_MainQuest5_77 = Je ramasse la flûte, et me prépare.
+Fortress_MainQuest5_78 = La flûte ?! Tu n'as pas vu ce qui est arrivé à l'autre ?
+Fortress_MainQuest5_79 = Elle ne te sauvera pas ! Tu ne vas que délayer l'inévitable !
+Fortress_MainQuest5_80 = Je vais tout de même essayer ! S'il vous plait, écoutez ma douce mélodie.
+Fortress_MainQuest5_81 = Je commence à jouer de la flûte, espérant réussir.
+
+Fortress_MainQuest5_82 = J'ai réussi ! J'ai charmé le dragon !
+Fortress_MainQuest5_83 = Je n'ai plus qu'à trouver un moyen de m'en débarrasser...
+Fortress_MainQuest5_84 = Oh ! Je sais !
+Fortress_MainQuest5_85 = Et maintenant, Seigneur Braise. Ecrasez-vous dans un volcan.
+Fortress_MainQuest5_86 = Mhm... Oui... Bien sur....
+Fortress_MainQuest5_87 = Le dragon s'envole. Ou ? Je ne sais pas...
+Fortress_MainQuest5_88 = Mais au moins, il n'est plus là. Il devrait mourir dans un volcan.
+Fortress_MainQuest5_89 = Bon, il est temps de retrouver le "trésor" d'Harold...
+Fortress_MainQuest5_90 = Je commence à chercher. L'endroit est rempli d'or, mais je ne vois pas de clés.
+Fortress_MainQuest5_91 = Après quelques minutes, je les trouve enfin, cachées derrière un lingot d'or.
+Fortress_MainQuest5_92 = Bien. Il est temps de rentrer. Harold est surement en train de m'attendre.
+Fortress_MainQuest5_93 = Mais quand même, je n'arrive pas à croire qu'il m'a trompé de la sorte.
+Fortress_MainQuest5_94 = Je veux dire... Je comprends sa réticence à me dire la vérité. Mais quand même...
+Fortress_MainQuest5_95 = Je sors à l'extérieur en passant par la porte principale.
+Fortress_MainQuest5_96 = Je ne vois pas GARDE. Je suppose qu'il a pris la fuite durant mon combat.
+Fortress_MainQuest5_97 = Tant pis. Je vais garder les clés en souvenir.
+Fortress_MainQuest5_98 = Il est temps de rentrer maintenant.
