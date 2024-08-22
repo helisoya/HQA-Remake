@@ -116,6 +116,7 @@ mainQuest = Protecteur de Vlatyr
 mainQuest_0 = Rencontrer Boyardee à Vlatyr
 mainQuest_1 = S'occuper de Rickey et de l'Archer
 mainQuest_2 = Aller à la forteresse Braise
+mainQuest_3 = Trouver du quartz dans les mines
 
 rickeyQuest = Le PDG
 rickeyQuest_0 = Entrer dans Rickeyland

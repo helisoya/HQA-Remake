@@ -116,6 +116,7 @@ mainQuest = Protector of Vlatyr
 mainQuest_0 = Meet Boyardee in Vlatyr
 mainQuest_1 = Deal with Rickey and the Archer
 mainQuest_2 = Go to the Braise Fortress
+mainQuest_3 = Find quartz in the mines
 
 rickeyQuest = The CEO
 rickeyQuest_0 = Enter RickeyLand

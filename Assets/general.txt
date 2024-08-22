@@ -1,1 +1,1 @@
-{"language":"eng","valBGM":0.2518371045589447,"valSFX":0.08984576910734177,"valVOICE":0.30000001192092898,"resolutionWidth":1920,"resolutionHeight":1080,"refreshRate":60,"fullscreen":true,"quality":2}
+{"language":"eng","valBGM":0.2907150685787201,"valSFX":0.03800840675830841,"valVOICE":0.30000001192092898,"resolutionWidth":1920,"resolutionHeight":1080,"refreshRate":60,"fullscreen":true,"quality":2}
