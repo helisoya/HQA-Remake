@@ -1,4 +1,4 @@
-if(mainQuest = 5) BraiseFortress/Gate_MainQuest5
+if(mainQuest < 5) BraiseFortress/Barrier
 
 fadeBg(1;true)
 

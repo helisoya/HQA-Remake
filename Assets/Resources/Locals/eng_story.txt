@@ -47,6 +47,7 @@ Choice_AboutPark = About the park
 Choice_AboutRickey = About Rickey
 Choice_AboutArcher = About the Archer
 Choice_WhyMe = Why me ?
+Choice_Guild = About the guild
 
 Choice_Left = Go left
 Choice_Right = Go right
@@ -176,6 +177,20 @@ ChezHarold_Harold_You_8 = It's really easy to do ! You just need to find a prote
 ChezHarold_Harold_You_9 = I picked mine, and learned all about summoning people from other worlds.
 ChezHarold_Harold_You_10 = That way, if things were to ever go bad, I could use my powers to summon a hero from another world.
 
+ChezHarold_Harold_Guild_1 = I founded the guild a few years ago. Back then, it was just me.
+ChezHarold_Harold_Guild_2 = Since we are secretive vigilantes of some sort, we could just ask for members in the open.
+ChezHarold_Harold_Guild_3 = Because of that, most of our members have links with each other. It's not a bad thing.
+ChezHarold_Harold_Guild_4 = Our goal, like I told you before, is to face the various ordeal the world has to offer.
+ChezHarold_Harold_Guild_5 = Not just in Vlatyr, also in other regions like Runan.
+ChezHarold_Harold_Guild_6 = Whenever an ordeal appears, we are ready.
+
+ChezHarold_Harold_YouGuild_1 = I am the founder of the guild.
+ChezHarold_Harold_YouGuild_2 = For this reason, I'm the "leader" around there. Even though I don't do much.
+ChezHarold_Harold_YouGuild_3 = When we face difficult ordeals, I summon heros to help us.
+ChezHarold_Harold_YouGuild_4 = But in normal times, I mostly do paperworks.
+ChezHarold_Harold_YouGuild_5 = You know, the usual. Who's in the guild. Who went on a mission... 
+
+
 ChezHarold_Harold_MainQuest0_1 = Head to Vlatyr, and meet Mr.Boyardee.
 ChezHarold_Harold_MainQuest0_2 = He's a friend of mine, and he owns a shop in the city.
 ChezHarold_Harold_MainQuest0_3 = He'll give you equipments that you'll need during your mission.
@@ -196,6 +211,8 @@ ChezHarold_Harold_MainQuest2_Archer_1 = So the Archer went to the fortress...
 ChezHarold_Harold_MainQuest2_Archer_2 = Follow suite. But beware of the artefacts he may steal.
 ChezHarold_Harold_MainQuest2_Archer_3 = I heard some of them can make their user invincible...
 
+ChezHarold_Harold_MainQuest3_1 = You should head to the mines.
+ChezHarold_Harold_MainQuest3_2 = You'll find the quartz we need there.
 
 
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
@@ -769,3 +786,5 @@ Fortress_MainQuest3_94 = I'll go home and start preparing the potions.
 Fortress_MainQuest3_95 = Hurry, we don't have much time.
 Fortress_MainQuest3_96 = Harold runs off. He's quite fast for his age.
 Fortress_MainQuest3_97 = ... Let's go to the mines. I have to find some quartz.
+
+Fortress_Barrier_1 = The barrier is protecting the fortress. I can't enter it like that.

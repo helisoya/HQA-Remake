@@ -48,6 +48,7 @@ Choice_AboutPark = A propos du parc
 Choice_AboutRickey = A propos de Rickey
 Choice_AboutArcher = A propos de l'archer
 Choice_WhyMe = Pourquoi moi ?
+Choice_Guild = A propos de la guilde
 
 Choice_Left = Aller à Gauche
 Choice_Right = Aller à Droite
@@ -180,6 +181,19 @@ ChezHarold_Harold_You_8 = C'est vraiment simple à faire ! Il faut juste trouver
 ChezHarold_Harold_You_9 = J'ai choisi le mien, et j'ai appris à propos de l'invocation de personnes d'autres mondes.
 ChezHarold_Harold_You_10 = Ainsi, en cas de problèmes, je peut utiliser mes pouvoirs pour invoquer un héro d'un autre monde.
 
+ChezHarold_Harold_Guild_1 = J'ai fondé la guilde il y a quelques années. A l'époque, il n'y avait que moi.
+ChezHarold_Harold_Guild_2 = Comme nous sommes des justiciers de l'ombre, nous ne pouvons pas chercher publiquement des membres.
+ChezHarold_Harold_Guild_3 = A cause de ça, la plupart de nos membres ont des liens de famille. Ce n'est pas si mal au fond.
+ChezHarold_Harold_Guild_4 = Notre but, comme je vous l'avais dis plus tôt, est de faire face aux différentes épreuves que le monde propose.
+ChezHarold_Harold_Guild_5 = Pas seulement à Vlatyr, mais aussi dans d'autres régions comme Runan.
+ChezHarold_Harold_Guild_6 = Quand une épreuve arrive, nous sommes prêt.
+
+ChezHarold_Harold_YouGuild_1 = Je suis le fondateur de la guilde.
+ChezHarold_Harold_YouGuild_2 = Pour cette raison, je suis le "chef" la bas. Même si techniquement je ne fais pas grand chose.
+ChezHarold_Harold_YouGuild_3 = Lors d'épreuves difficiles, j'invoque des héros pour nous aider.
+ChezHarold_Harold_YouGuild_4 = Mais en temps normal, je fais de la paperasse.
+ChezHarold_Harold_YouGuild_5 = Vous savez. Qui est dans la guilde. Qui est allé en mission...
+
 ChezHarold_Harold_MainQuest0_1 = Allez à Vlatyr, et parler à Mr.Boyardee.
 ChezHarold_Harold_MainQuest0_2 = C'est un de mes amis. Il possède une boutique en ville.
 ChezHarold_Harold_MainQuest0_3 = Il vous donnera de l'équipement dont vous aurez besoin durant votre mission.
@@ -199,6 +213,9 @@ ChezHarold_Harold_MainQuest2_Rickey_3 = Son tank est bien plus puissant que vous
 ChezHarold_Harold_MainQuest2_Archer_1 = Donc l'archer est allé à la forteresse...
 ChezHarold_Harold_MainQuest2_Archer_2 = Suivez-le. Mais faites attention aux artefactes qu'il aura volé.
 ChezHarold_Harold_MainQuest2_Archer_3 = J'ai entendu dire que certains d'entre eux rendent leur utilisateur invincible...
+
+ChezHarold_Harold_MainQuest3_1 = Vous devez aller à la mine.
+ChezHarold_Harold_MainQuest3_2 = Vous y trouverez le quartz dont nous avons besoin.
 
 ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 
@@ -766,3 +783,6 @@ Fortress_MainQuest3_94 = Je vais rentrer et commencer à préparer la potion.
 Fortress_MainQuest3_95 = Dépéchez-vous ! Nous n'avons plus beacoup de temps !
 Fortress_MainQuest3_96 = Harold part en courant. Il est plutôt rapide pour son age.
 Fortress_MainQuest3_97 = ... Allons à la mine. Je dois trouver du quartz.
+
+
+Fortress_Barrier_1 = La barrière protège la forteresse. Je ne peux pas la traverser comme ça.
