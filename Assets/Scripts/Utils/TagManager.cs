@@ -14,6 +14,8 @@ public class TagManager
     /// <param name="speaker">Is the string showing a speaker ?</param>
     public static void Inject(ref string s, bool speaker = true)
     {
+        if (s == null) return;
+
         if (speaker && s.Equals("narrator")) return;
 
         if (speaker && !s.Contains("[")) // If Speaker is not the player, attempt to load the locals for him

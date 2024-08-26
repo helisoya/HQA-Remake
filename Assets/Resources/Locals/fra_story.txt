@@ -56,6 +56,9 @@ Choice_Right = Aller à Droite
 Choice_Accept = Accepter
 Choice_Refuse = Refuser
 
+Choice_ScaleWall = Escalader le mur
+Choice_GoBack = Retourner en arrière
+
 Choice_RunAway = Fuir
 
 
@@ -411,6 +414,58 @@ RickeyLandEntrance_RickeyGoesToFortress_9 = Il se dirige vers la forteresse. Je 
 
 RickeyLandEntrance_Door_No_1 = Je n'ai pas besoin d'entrer dans le parc.
 
+RickeyLandEntrance_Door_Enter_1 = Bien sur, la porte est fermée à clé.
+RickeyLandEntrance_Door_Enter_2 = ... Je peux utiliser l'équipement que Boyardee m'a donné pour escalader le mur.
+RickeyLandEntrance_Door_Enter_3 = Cependant, si je le fais, je ne pourrais sortir qu'une fois Rickey vaincu.
+RickeyLandEntrance_Door_Enter_4 = Donc, que faire ?
+
+RickeyLand_RickeyQuest0_1 = Je commence à escalader le mur du parc.
+RickeyLand_RickeyQuest0_2 = C'est compliqué, mais je fini par y arriver.
+RickeyLand_RickeyQuest0_3 = Une fois a l'intérieur, je commence à errer sans but dans le parc.
+RickeyLand_RickeyQuest0_4 = Ou est Rickey ? Dans un endroit important, je suppose ?
+RickeyLand_RickeyQuest0_5 = J'arrive à une sorte de palce. Une statue représentant, je suppose, Rickey est au milieu.
+RickeyLand_RickeyQuest0_6 = Il y a une cage à coté d'elle. Quelqu'un est à l'intérieur.
+RickeyLand_RickeyQuest0_7 = Oh ? Eh ! Par ici !
+
+RickeyLand_RickeyQuest0_8 = Qui êtes-vous ? Que faîtes-vous ici ?
+RickeyLand_RickeyQuest0_9 = Comme vous pouvez le voir, le parc est fermée jusqu'à 9h.
+RickeyLand_RickeyQuest0_10 = Qui je suis n'est pas important. Je dois voir le PDG, Rickey.
+RickeyLand_RickeyQuest0_11 = Quoi ? Vous voulez voir le PDG ?
+RickeyLand_RickeyQuest0_12 = Si je peux me permettre, ce n'est pas le moment. Il est irrité en ce moment.
+RickeyLand_RickeyQuest0_13 = Et vous ne voulez pas qu'il soit comme ça, croyez-moi.
+RickeyLand_RickeyQuest0_14 = Vous pouvez voir le résulat. Il m'a enfermé jusqu'au levé du jour.
+RickeyLand_RickeyQuest0_15 = Je n'arrive toujours pas à y croire. Tout ce que j'ai fait était...
+RickeyLand_RickeyQuest0_16 = Ou est-t-il ?
+RickeyLand_RickeyQuest0_17 = Eh ? Je viens de vous le dire, vous ne devriez pas le rencontrer pour le moment.
+RickeyLand_RickeyQuest0_18 = Pas tant qu'il prépare son expédition.
+RickeyLand_RickeyQuest0_19 = Ecoutes. Je dois l'arrêter avant qu'il ne lance son expédition. Si il le fait, ça sera un désastre.
+RickeyLand_RickeyQuest0_20 = Je sais, je sais, mais...
+RickeyLand_RickeyQuest0_21 = Il est vrai que c'est une très mauvaise idée, du début à la fin.
+RickeyLand_RickeyQuest0_22 = Je veux dire... prendre le contrôle d'une forteresse, et utiliser son or pour repayer des detes...
+RickeyLand_RickeyQuest0_23 = C'est de la folie. Les banques ne le laisseront pas.
+RickeyLand_RickeyQuest0_24 = Il est endété ?
+RickeyLand_RickeyQuest0_25 = Par Kalibu, vous ne savez pas ?
+RickeyLand_RickeyQuest0_26 = RickeyLand, bien que relativement populaire, est massivement endeté.
+RickeyLand_RickeyQuest0_27 = Le PDG n'arrête pas de faire des dépenses, inutiles la plupart du temps.
+RickeyLand_RickeyQuest0_28 = Par exemple, hier, il a achêté 5 tanks avec l'argent du parc. Nous n'avons aucune utilité pour eux.
+RickeyLand_RickeyQuest0_29 = Nous sommes dans le rouge depuis des mois, et à empire de jour en jour.
+RickeyLand_RickeyQuest0_30 = Quand je lui ai dit, il a répondu "Va en chercher à la banque".
+RickeyLand_RickeyQuest0_31 = Au début, on pouvais faire des prêts. On venais juste de commencer.
+RickeyLand_RickeyQuest0_32 = Mais maintenant, plus personne ne veux nous parler, et les banques veulent leurs argent.
+RickeyLand_RickeyQuest0_33 = J'ai essayer d'expliquer au PDG que nous devons changer de stratégie, ou peine de devoir fermer le parc.
+RickeyLand_RickeyQuest0_34 = Mais il a commencé à travailler sur ce plan fou, impliquant de voler l'argent de la forteresse. 
+RickeyLand_RickeyQuest0_35 = Je lui ai dis que c'était de la folie, mais il s'est énervé et m'a jeté ici...
+RickeyLand_RickeyQuest0_36 = Je peux l'arrêter. Dis moi simplement ou il est.
+RickeyLand_RickeyQuest0_37 = Je... très bien. Mais d'abord, sortez moi d'ici.
+RickeyLand_RickeyQuest0_38 = Non...
+RickeyLand_RickeyQuest0_39 = Je pense que l'un des gardes de sécurité a la clé de cette cage.
+RickeyLand_RickeyQuest0_40 = Trouvez les, et revenez ici.
+RickeyLand_RickeyQuest0_41 = Une fois sortie, je vous explique ou trouver le PDG.
+RickeyLand_RickeyQuest0_42 = D'accord, d'accord. Je vais trouver ces clés.
+RickeyLand_RickeyQuest0_43 = Je perd mon temps avec ça, mais je n'ai pas le choix.
+
+RickeyLand_Natasha_RickeyQuest1_1 = L'un des gardes doit avoir la clé de cette cage en sa possession.
+RickeyLand_Natasha_RickeyQuest1_2 = Trouvez la, et laissez moi sortir d'ici. Je vous aiderai à trouver le PDG.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
@@ -552,55 +607,6 @@ Mountains_Sign_Default_1 = "Demeure du grand sorcier de Vlatyr"
 Mountains_Sign_Default_2 = Ou est la maison ?
 
 Mountains_Car_1 = On dirait qu'aucune voiture n'échappe au Seigneur Braise. Je ne sais même pas comment elle est arrivée là.
-
-Mountains_KeysQuest0_1 = "Demeure du grand sorcier de Vlatyr" est écrit sur le panneau.
-Mountains_KeysQuest0_2 = Mais quelque chose ne va pas. Ou est la maison ?
-Mountains_KeysQuest0_3 = GARDE m'a dit que le sorcier vivant par ici, mais je ne peux pas le trouver.
-Mountains_KeysQuest0_4 = Je suppose que le panneau est juste mal placé ? Peut-être qu'il vit autre part.
-Mountains_KeysQuest0_5 = Bien... on est dans des montagnes. Il pourrait être n'importe ou.
-Mountains_KeysQuest0_6 = Attend, attend, attend !
-Mountains_KeysQuest0_7 = Un homme en robes violettes sort de nulle part, et commence à me crier dessus.  
-Mountains_KeysQuest0_8 = Qui êtes-vous ?! Vous êtes le sorcier ?
-Mountains_KeysQuest0_9 = Vous osez insulter mon panneau, insolent ! Je vais vous punir pour ça !
-Mountains_KeysQuest0_10 = Je suis le grand sorcier de Vlatyr, l'un des meilleurs du pays ! 
-Mountains_KeysQuest0_11 = Et ça, c'est ma maison ! Le panneau dit la vérité !
-Mountains_KeysQuest0_12 = Il pointe l'herbe. Il n'y a rien ici...
-Mountains_KeysQuest0_13 = Je suis désolé... Je ne suis pas sur de comprendre...
-Mountains_KeysQuest0_14 = QUOI ?! C'est facile pourtant ! Tu vois bien ma belle maison ?
-Mountains_KeysQuest0_15 = Je vis ici ! C'est la plus grande maison du monde !
-Mountains_KeysQuest0_16 = Il est... fou, non ?
-Mountains_KeysQuest0_17 = Hey ! Tu m'écoutes ?
-Mountains_KeysQuest0_18 = O- Oui ! Bien sur !
-Mountains_KeysQuest0_19 = Donc, excuse-toi auprès de mon panneau et de ma magnifique demeure.
-Mountains_KeysQuest0_20 = Euh... pardon ?
-Mountains_KeysQuest0_21 = Super ! Nous sommes amis maintenant !
-Mountains_KeysQuest0_22 = Hein ?
-Mountains_KeysQuest0_23 = Je... devrais lui demander à propos des clés.
-Mountains_KeysQuest0_24 = Cool... je peux vous poser une question ?
-Mountains_KeysQuest0_25 = Bien sur ?! Tu as besoin de quelque chose ? Un renard magique ?!
-Mountains_KeysQuest0_26 = N- Non ! Je voulais vous parler de la forteresse Braise.
-Mountains_KeysQuest0_27 = J'ai entendu que des clés ont été volées, et j'en ai besoin pour entrer à l'intérieur.
-Mountains_KeysQuest0_28 = Sauriez-vous ou se trouvent ces clés, par hasard ? 
-Mountains_KeysQuest0_29 = Des clés ?! Ne manquez pas de respect à Talia !
-Mountains_KeysQuest0_30 = Talia ?
-Mountains_KeysQuest0_31 = Je l'ai sauvé de ce monstrueux garde à la forteresse.
-Mountains_KeysQuest0_32 = Je l'aime. Nous venons de nous marier !
-Mountains_KeysQuest0_33 = Hein ? Hein ?
-Mountains_KeysQuest0_34 = Donc... vous êtes marié à des clés ?
-Mountains_KeysQuest0_35 = N'osez pas la comparer aux autres clés !
-Mountains_KeysQuest0_36 = Elle leur ressemble, mais elle est différente !
-Mountains_KeysQuest0_37 = Il y a un dragon engravé sur elle !
-Mountains_KeysQuest0_38 = Donc c'est une clé normale...
-Mountains_KeysQuest0_39 = Je comprends ! Vous voulez kidnapper Talia ! Vous voulez voler ma femme !
-Mountains_KeysQuest0_40 = Je ne vais pas vous laisser faire ! Je vais vous tuer !
-Mountains_KeysQuest0_41 = Le sorcier commence à lancer des sorts. Je vais avoir des ennuis...
-
-Mountains_KeysQuest0_42 = Impossible ! Comment as-tu esquivé mes attaques magiques ?
-Mountains_KeysQuest0_43 = Vite ! Je dois faire une retraite tactique ! A ma maison !
-Mountains_KeysQuest0_44 = Le sorcier prend la fuite.
-Mountains_KeysQuest0_45 = En fuyant, il fait tomber les clés de la forteresse.
-Mountains_KeysQuest0_46 = Bien... Je suppose que j'ai les clés maintenant.
-Mountains_KeysQuest0_47 = Il est temps d'aller retourner voir GARDE. Il va vouloir ses clés.
 
 # ---------------------------------------------------------
 # --------------- Forteresse ------------------------------

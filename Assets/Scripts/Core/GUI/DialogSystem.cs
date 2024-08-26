@@ -65,7 +65,7 @@ public class DialogSystem : MonoBehaviour
 
         speechText.text = speech;
         speakerNameText.text = speaker;
-        speechText.maxVisibleCharacters = speech.Length;
+        speechText.maxVisibleCharacters = speech?.Length ?? 0;
     }
 
     IEnumerator Speaking(string speech, bool additive, string characterID, string speaker = "")

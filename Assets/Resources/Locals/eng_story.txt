@@ -55,6 +55,9 @@ Choice_Right = Go right
 Choice_Accept = Accept
 Choice_Refuse = Refuse
 
+Choice_ScaleWall = Scale the wall
+Choice_GoBack = Go Back
+
 Choice_RunAway = Run Away
 
 # ---------------------------------------------------------
@@ -382,7 +385,7 @@ ChezMarcel_Marcel_ArcherQuest2_16 = I'll kill him ! He can't have my grouses !
 ChezMarcel_Marcel_ArcherQuest2_17 = The hunter runs in the direction of the swamp. Perfect.
 ChezMarcel_Marcel_ArcherQuest2_18 = Now he'll help me deal with the archer.
 ChezMarcel_Marcel_ArcherQuest2_19 = The sneaky bastard won't be able to hide from me now. 
-ChezMarcel_Marcel_ArcherQuest2_20 = Time to head to the swamp. We don't want him to get lost. 
+ChezMarcel_Marcel_ArcherQuest2_20 = Time to head to the swamp. We don't want him to get lost.
 
 
 # ---------------------------------------------------------
@@ -413,9 +416,58 @@ RickeyLandEntrance_RickeyGoesToFortress_9 = He must be headed to the fortress. I
 
 RickeyLandEntrance_Door_No_1 = I don't need to enter the park.
 
+RickeyLandEntrance_Door_Enter_1 = Of course, the door is locked...
+RickeyLandEntrance_Door_Enter_2 = ... I could use the gear Boyardee gave me to scale the wall though.
+RickeyLandEntrance_Door_Enter_3 = However, once I'm in I won't be able to get out until I deal with Rickey.
+RickeyLandEntrance_Door_Enter_4 = So, what should I do ?
 
+RickeyLand_RickeyQuest0_1 = I start scaling the park's wall.
+RickeyLand_RickeyQuest0_2 = It's hard, but I manage to do it.
+RickeyLand_RickeyQuest0_3 = Once in, I start walking aimlessly in the park.
+RickeyLand_RickeyQuest0_4 = Where could Rickey be ? I guess a place of importance ?
+RickeyLand_RickeyQuest0_5 = I get to some sort of plaza. A statue of I assume Rickey is posing in the middle.
+RickeyLand_RickeyQuest0_6 = There is also a cage next to it. Someone's inside.
+RickeyLand_RickeyQuest0_7 = Oh ? Hey ! Over here !
 
+RickeyLand_RickeyQuest0_8 = Who are you ? What are you doing here ?
+RickeyLand_RickeyQuest0_9 = As you can see, the park is currently closed until 9 AM.
+RickeyLand_RickeyQuest0_10 = Who I am doesn't matter. I must see the CEO of this place, Rickey.
+RickeyLand_RickeyQuest0_11 = Uh ? You want to see the CEO ?
+RickeyLand_RickeyQuest0_12 = If I may, this isn't the time for a meeting. He's quite irritated now.
+RickeyLand_RickeyQuest0_13 = And you don't to meet him while he's like that, trust me.
+RickeyLand_RickeyQuest0_14 = You can see the result. He locked me up until dawn...
+RickeyLand_RickeyQuest0_15 = I still can't believe he did that. All I did was...
+RickeyLand_RickeyQuest0_16 = Where is he ?
+RickeyLand_RickeyQuest0_17 = Uh ? I told you before, you shouldn't meet him right now.
+RickeyLand_RickeyQuest0_18 = Not while he's preparing for his expedition of his.
+RickeyLand_RickeyQuest0_19 = Listen. I need to stop him from launching his expedition. If he does, it'll be a disaster.
+RickeyLand_RickeyQuest0_20 = I know, I know, but...
+RickeyLand_RickeyQuest0_21 = It's true that it's a really bad idea. Right from the start.
+RickeyLand_RickeyQuest0_22 = I mean... Taking over a fortress, and use it's money to pay back debts...
+RickeyLand_RickeyQuest0_23 = This is insane. Banks won't allow this.
+RickeyLand_RickeyQuest0_24 = Is he in debts ?
+RickeyLand_RickeyQuest0_25 = By Kalibu, you don't know ?
+RickeyLand_RickeyQuest0_26 = RickeyLand, while relatively popular, is massively in debts.
+RickeyLand_RickeyQuest0_27 = The CEO keeps buying and buying. Useless things most of the time, too.
+RickeyLand_RickeyQuest0_28 = For example, yesterday, he bought 5 tanks using the park's money. We have no use for them.
+RickeyLand_RickeyQuest0_29 = We've been in the red for months now, and it keeps getting worse.
+RickeyLand_RickeyQuest0_30 = When I told him that, he just said "Just get more money from the bank".
+RickeyLand_RickeyQuest0_31 = At first, we could just take some loans. We were only starting out.
+RickeyLand_RickeyQuest0_32 = But now, nobody wants to talk to us, and the banks want their money back.
+RickeyLand_RickeyQuest0_33 = I tried to tell the CEO that we had to change course, or else we would have to close shop.
+RickeyLand_RickeyQuest0_34 = But he just devised this insane plan to steal money from the fortress instead.
+RickeyLand_RickeyQuest0_35 = I told him it was madness, but he got angry and threw me here...
+RickeyLand_RickeyQuest0_36 = I can stop him. Just tell me where he is.
+RickeyLand_RickeyQuest0_37 = I... Alright. But first, let me out of here.
+RickeyLand_RickeyQuest0_38 = No...
+RickeyLand_RickeyQuest0_39 = I think one of the security guard might have the key to this cage.
+RickeyLand_RickeyQuest0_40 = Find them, and come back here.
+RickeyLand_RickeyQuest0_41 = When I'm out, I'll tell you where to find the CEO.
+RickeyLand_RickeyQuest0_42 = Alright, alright. I'll find those keys.
+RickeyLand_RickeyQuest0_43 = I'm losing time with this, but I have no choice.
 
+RickeyLand_Natasha_RickeyQuest1_1 = One of the guard must have the key to this cage.
+RickeyLand_Natasha_RickeyQuest1_2 = Find it and let me out of here. I'll help you find the CEO.
 
 
 # ---------------------------------------------------------
@@ -557,54 +609,6 @@ Mountains_Sign_Default_2 = Where is the house ?
 
 Mountains_Car_1 = It seems no car can escape Lord Ember's wrath. I don't even know how it got here.
 
-Mountains_KeysQuest0_1 = "House of the great wizard of Vlatyr" is written on the sign.
-Mountains_KeysQuest0_2 = But, something is wrong. Where is the house ?
-Mountains_KeysQuest0_3 = GUARD told me the wizard lived somewhere here, but I can't find him...
-Mountains_KeysQuest0_4 = I guess the sign is just misplaced ? Maybe he lives elsewhere.
-Mountains_KeysQuest0_5 = Well... where are in a mountainous environment. He could be anywhere.
-Mountains_KeysQuest0_6 = Hold on, hold on, hold on !
-Mountains_KeysQuest0_7 = A man in purple robes appears out of nowhere and starts yelling at me.
-Mountains_KeysQuest0_8 = Who are you ?! Are you the wizard ?
-Mountains_KeysQuest0_9 = You dare insult my sign, insolent ! I shall punish you for that !
-Mountains_KeysQuest0_10 = I am the great wizard of Vlatyr, one of the greatest in the country !
-Mountains_KeysQuest0_11 = And this, is my house ! The sign is right !
-Mountains_KeysQuest0_12 = He points at the grass. There is no house there...
-Mountains_KeysQuest0_13 = I'm sorry... I'm not sure I understand....
-Mountains_KeysQuest0_14 = WHAT ?! Can you not see ? Can you not see my magnificent home ?
-Mountains_KeysQuest0_15 = I live here ! It's the greatest house ever !
-Mountains_KeysQuest0_16 = Is he.... insane, perhaps ?
-Mountains_KeysQuest0_17 = Hey ! Are you listening ?
-Mountains_KeysQuest0_18 = Y- Yes ! I am !
-Mountains_KeysQuest0_19 = So, apologize about my sign and my beautiful house.
-Mountains_KeysQuest0_20 = Uhm... sorry ?
-Mountains_KeysQuest0_21 = Great ! Now we're friends !
-Mountains_KeysQuest0_22 = Uh ?
-Mountains_KeysQuest0_23 = I... should just ask him about the keys.
-Mountains_KeysQuest0_24 = Yeah... uhm... May I ask you something ?
-Mountains_KeysQuest0_25 = Of course ?! What do you want ? A magical fox ?!
-Mountains_KeysQuest0_26 = N- No ! I wanted to ask you about the Ember fortress.
-Mountains_KeysQuest0_27 = I heard the keys were stolen, and I need them in order to enter the fortress.
-Mountains_KeysQuest0_28 = Do you perhaps know where the keys are ?
-Mountains_KeysQuest0_29 = THE KEYS ?! Don't disrespect Talia !
-Mountains_KeysQuest0_30 = Talia ?
-Mountains_KeysQuest0_31 = I saved her from this monstrous guard at the fortress.
-Mountains_KeysQuest0_32 = I love her, we just got married !
-Mountains_KeysQuest0_33 = Uh ? Uh ?
-Mountains_KeysQuest0_34 = So... you married keys ?
-Mountains_KeysQuest0_35 = Don't you dare compare her to other keys !
-Mountains_KeysQuest0_36 = Maybe she looks like one, but she's special !
-Mountains_KeysQuest0_37 = There is a dragon engraved on her !
-Mountains_KeysQuest0_38 = So it's just a normal key.
-Mountains_KeysQuest0_39 = I get it ! You want to kidnap Talia ! You want to steal my wife !
-Mountains_KeysQuest0_40 = I won't let you ! I'll kill you !
-Mountains_KeysQuest0_41 = The wizard is starting to cast spells. I may be in trouble.
-
-Mountains_KeysQuest0_42 = Impossible ! How did you evade my magic attacks ?
-Mountains_KeysQuest0_43 = Quick ! I have to retreat for now ! To my house !
-Mountains_KeysQuest0_44 = The wizard runs away.
-Mountains_KeysQuest0_45 = While running, he drops the fortress's keys.
-Mountains_KeysQuest0_46 = Well... I guess I have the keys now.
-Mountains_KeysQuest0_47 = Time to head back to GUARD. He'll want to get his keys back.
 
 # ---------------------------------------------------------
 # --------------- Forteresse ------------------------------
