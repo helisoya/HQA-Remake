@@ -60,21 +60,22 @@ public class AudioManager : MonoBehaviour
     public void PlaySong(string songName, float maxVolume = 1f, float pitch = 1f, float startingVolume = 0f, bool playOnStart = true, bool loop = true)
     {
         AudioClip song = Resources.Load<AudioClip>("Audio/Music/" + songName);
+        if (activeSong != null && activeSong.clip == song) return;
+
+        print(song);
 
         if (song != null)
         {
-            for (int i = 0; i < allSongs.Count; i++)
-            {
-                SONG s = allSongs[i];
-                if (s.clip == song)
-                {
-                    activeSong = s;
-                    break;
-                }
-            }
-            if (activeSong == null || activeSong.clip != song)
+            activeSong = allSongs.Find(s => s.clip == song);
+
+            if (activeSong == null)
             {
                 activeSong = new SONG(songName, song, maxVolume, pitch, startingVolume, playOnStart, loop, bgmGroup);
+            }
+            else
+            {
+                activeSong.Stop();
+                activeSong.Play();
             }
         }
         else
