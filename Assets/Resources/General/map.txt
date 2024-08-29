@@ -15,4 +15,5 @@ Swamtyr Swamtyr/Arrive mainQuest 1
 ChezMarcel ChezMarcel/Arrive mainQuest 1
 Swamp Swamp/Arrive archerQuest 1
 BraiseFortress BraiseFortress/Arrive mainQuest 2
+Mines Mines/Arrive mainQuest 3
 # Mountains Mountains/Arrive mainQuest 4

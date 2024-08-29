@@ -164,7 +164,7 @@ public class Character : MonoBehaviour
     /// <param name="newAnimation">The new animation set's name</param>
     public void ChangeEyeAnimation(string newAnimation)
     {
-        if (string.IsNullOrEmpty(newAnimation)) return;
+        if (string.IsNullOrEmpty(newAnimation) || !eyeAnimator) return;
         eyeAnimationSet = newAnimation;
         RuntimeAnimatorController controller = Resources.Load<RuntimeAnimatorController>(pathToAnimations + "Eye/" + newAnimation);
         if (controller)
@@ -179,7 +179,7 @@ public class Character : MonoBehaviour
     /// <param name="newAnimation">The new animation set's name</param>
     public void ChangeMouthAnimation(string newAnimation)
     {
-        if (string.IsNullOrEmpty(newAnimation)) return;
+        if (string.IsNullOrEmpty(newAnimation) || !eyeAnimator) return;
         mouthAnimationSet = newAnimation;
         RuntimeAnimatorController controller = Resources.Load<RuntimeAnimatorController>(pathToAnimations + "Mouth/" + newAnimation);
         if (controller)

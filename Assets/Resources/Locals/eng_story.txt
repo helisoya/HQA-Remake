@@ -22,6 +22,7 @@ Char_OldMan = Old Man
 Char_OldWoman = Old Woman
 Char_Marcel = Hunter
 Char_Adrian = Adrian
+Char_Security = Security
 
 # -----------------------------------------------------------
 # --------------- Choices -----------------------------------
@@ -468,6 +469,19 @@ RickeyLand_RickeyQuest0_43 = I'm losing time with this, but I have no choice.
 
 RickeyLand_Natasha_RickeyQuest1_1 = One of the guard must have the key to this cage.
 RickeyLand_Natasha_RickeyQuest1_2 = Find it and let me out of here. I'll help you find the CEO.
+
+RickeyLand_Guard_Default_1 = ....Zzzz...
+
+RickeyLand_Guard_RickeyQuest1_1 = A security guard ? Maybe he has the key to the cage.
+RickeyLand_Guard_RickeyQuest1_2 = I can't believe they made me guard this alley.
+RickeyLand_Guard_RickeyQuest1_3 = Seriously ! There is nothing to steal here appart from soda. And we already do that !
+RickeyLand_Guard_RickeyQuest1_4 = I should have been guarding the girl. I have the key to her cage too...
+RickeyLand_Guard_RickeyQuest1_5 = Oh well... Time to use my secret technique, I guess.
+RickeyLand_Guard_RickeyQuest1_6 = Ultra quick nap time !
+RickeyLand_Guard_RickeyQuest1_7 = Zzzzzz.......
+RickeyLand_Guard_RickeyQuest1_8 = ... Let's just steal his key.
+RickeyLand_Guard_RickeyQuest1_9 = I approach the guard, and silently steals his key.
+RickeyLand_Guard_RickeyQuest1_10 = Alright. Time to head to the plaza again. 
 
 
 # ---------------------------------------------------------

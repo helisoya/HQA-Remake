@@ -1,0 +1,13 @@
+fadeBg(1;true)
+
+removeAllCharacters()
+setBackground(RickeyLandPlaza)
+
+addCharacter(Natasha;false)
+setCharacterPosition(Natasha;Cage)
+setCharacterRotation(Natasha;Cage)
+setCharacterBody(Natasha;NoUmbrella;true)
+
+fadeBg(0;false)
+
+load(RickeyLandEntrance/Plaza)
