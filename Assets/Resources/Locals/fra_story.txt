@@ -481,6 +481,30 @@ RickeyLand_Guard_RickeyQuest1_8 = ... Volons juste sa clé.
 RickeyLand_Guard_RickeyQuest1_9 = Je m'approche du garde, et vole silencieusement sa clé.
 RickeyLand_Guard_RickeyQuest1_10 = Bien. Je devrais retourner à la place centrale.
 
+RickeyLand_RickeyQuest2_1 = Vous êtes de retour ! Avez-vous trouvé la clé ?
+RickeyLand_RickeyQuest2_2 = Oui. Un des gardes l'avait, comme tu l'avais dis.
+RickeyLand_RickeyQuest2_3 = Super ! Laissez-moi sortir, s'il vous plait.
+RickeyLand_RickeyQuest2_4 = Je vous dirais ensuite ou trouver le PDG.
+RickeyLand_RickeyQuest2_5 = Super... Je ne vais pas pouvoir lui faire du chantage maintenant...
+RickeyLand_RickeyQuest2_6 = J'ouvre la cage. Elle en sort immédiatement.
+RickeyLand_RickeyQuest2_7 = Enfin libre !
+RickeyLand_RickeyQuest2_8 = Je suis si heureuse ! Je n'arrivais pas à respirer à l'intérieur...
+RickeyLand_RickeyQuest2_9 = Dis-moi ou trouver Rickey maintenant.
+RickeyLand_RickeyQuest2_10 = Ah, oui. Mes excuses...
+RickeyLand_RickeyQuest2_11 = Il est en ce moment dans le château que vous pouvez voir derrière moi.
+RickeyLand_RickeyQuest2_12 = Il est probablement en train de vérifier ses équipements avant de partir.
+RickeyLand_RickeyQuest2_13 = Très bien, je n'ai plus qu'à y aller et de m'occuper de lui.
+RickeyLand_RickeyQuest2_14 = Attendez ! Vous ne pouvez pas entrer comme ça.
+RickeyLand_RickeyQuest2_15 = Vous avez besoin d'un pass pour entrer dans le château, et je n'ai pas le mien sur moi.
+RickeyLand_RickeyQuest2_16 = Vous pouvez en trouver un dans la boutique de souvenir, à votre droite.
+RickeyLand_RickeyQuest2_17 = Une fois trouvé, revenez me voir. Je vous amenerai au PDG.
+RickeyLand_RickeyQuest2_18 = Très bien, très bien...
+RickeyLand_RickeyQuest2_19 = Je n'aime pas être dirigé comme ça, mais je n'ai pas le choix...
+
+RickeyLand_Natasha_RickeyQuest3_1 = Vous pouvez trouver un pass dans la boutique de souvenir à votre droite.
+
+RickeyLand_Cage_None_1 = Il n'y a rien à l'intérieur de cette cage.
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------

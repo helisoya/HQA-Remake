@@ -483,6 +483,29 @@ RickeyLand_Guard_RickeyQuest1_8 = ... Let's just steal his key.
 RickeyLand_Guard_RickeyQuest1_9 = I approach the guard, and silently steals his key.
 RickeyLand_Guard_RickeyQuest1_10 = Alright. Time to head to the plaza again. 
 
+RickeyLand_RickeyQuest2_1 = You're back ! Did you find the key ?
+RickeyLand_RickeyQuest2_2 = Yes. One of the guards had it, just as you said.
+RickeyLand_RickeyQuest2_3 = Great ! Let me out, please.
+RickeyLand_RickeyQuest2_4 = I'll let you know where to find the CEO after that.
+RickeyLand_RickeyQuest2_5 = Great... I can't even blackmail her now...
+RickeyLand_RickeyQuest2_6 = I reluctanly open the cage. She immediatly exits it.
+RickeyLand_RickeyQuest2_7 = Freedom at last !
+RickeyLand_RickeyQuest2_8 = I'm so happy ! I could barely breath in there...
+RickeyLand_RickeyQuest2_9 = Tell me where to find Rickey now.
+RickeyLand_RickeyQuest2_10 = Oh, right. My apologies...
+RickeyLand_RickeyQuest2_11 = He's currently holded up in the castle that you can see behind me.
+RickeyLand_RickeyQuest2_12 = Right now, he's probably checking on his gear before heading out.
+RickeyLand_RickeyQuest2_13 = Alright, I just have to head there and deal with him then.
+RickeyLand_RickeyQuest2_14 = Wait ! You can't enter like that.
+RickeyLand_RickeyQuest2_15 = You need a pass to enter the castle, and I don't currently have mine.
+RickeyLand_RickeyQuest2_16 = You'll need to find one in the souvenir shop, to your right.
+RickeyLand_RickeyQuest2_17 = Come back when you found one, I'll show you the way to the CEO.
+RickeyLand_RickeyQuest2_18 = Alright, alright...
+RickeyLand_RickeyQuest2_19 = I don't like being bossed around like that, but I have no choice...
+
+RickeyLand_Natasha_RickeyQuest3_1 = You can find a pass in the souvenir shop to your right.
+
+RickeyLand_Cage_None_1 = There is nothing inside this cage.
 
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
