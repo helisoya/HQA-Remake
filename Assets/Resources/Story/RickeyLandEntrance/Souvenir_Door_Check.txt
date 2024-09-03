@@ -1,0 +1,3 @@
+if(rickeyQuest = 3) RickeyLandEntrance/Souvenir_RickeyQuest3
+
+load(RickeyLandEntrance/Souvenir_Done)

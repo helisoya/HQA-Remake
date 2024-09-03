@@ -505,6 +505,15 @@ RickeyLand_Natasha_RickeyQuest3_1 = Vous pouvez trouver un pass dans la boutique
 
 RickeyLand_Cage_None_1 = Il n'y a rien à l'intérieur de cette cage.
 
+RickeyLand_Souvenir_Done_1 = Je n'ai plus besoin d'entrer dans la boutique.
+
+RickeyLand_RickeyQuest3_1 = C'est donc la boutique dont la fille a parlé.
+RickeyLand_RickeyQuest3_2 = Je devrais pouvoir trouver le pass ici.
+RickeyLand_RickeyQuest3_3 = J'entre dans la boutique. Elle est remplie de produits dérivés Rickey.
+RickeyLand_RickeyQuest3_4 = Quelle horreure... Trouvons le pass et sortons d'ici.
+RickeyLand_RickeyQuest3_5 = Je le trouve après quelques minutes. Il est en vente pour 10 galuses, mais je le vole.
+RickeyLand_RickeyQuest3_6 = Bien. Il est temps de retourner à la place.
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------

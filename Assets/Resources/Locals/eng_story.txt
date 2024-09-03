@@ -507,6 +507,15 @@ RickeyLand_Natasha_RickeyQuest3_1 = You can find a pass in the souvenir shop to 
 
 RickeyLand_Cage_None_1 = There is nothing inside this cage.
 
+RickeyLand_Souvenir_Done_1 = I don't need to enter the shop anymore.
+
+RickeyLand_RickeyQuest3_1 = So this is the shop the girl talked about.
+RickeyLand_RickeyQuest3_2 = I should be able to find the pass here.
+RickeyLand_RickeyQuest3_3 = I enter the shop. It's filled with Rickey merchandises.
+RickeyLand_RickeyQuest3_4 = What an ugly sight... Let's find the pass and head out.
+RickeyLand_RickeyQuest3_5 = After a few minutes, I manage to find the pass. It's in sale for 10 galuses ? Free is better.
+RickeyLand_RickeyQuest3_6 = Well. Time to head back to the plaza.
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
