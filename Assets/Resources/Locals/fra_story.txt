@@ -514,6 +514,57 @@ RickeyLand_RickeyQuest3_4 = Quelle horreure... Trouvons le pass et sortons d'ici
 RickeyLand_RickeyQuest3_5 = Je le trouve après quelques minutes. Il est en vente pour 10 galuses, mais je le vole.
 RickeyLand_RickeyQuest3_6 = Bien. Il est temps de retourner à la place.
 
+RickeyLand_RickeyQuest4_1 = Ah. Avez-vous trouvé le pass ?
+RickeyLand_RickeyQuest4_2 = Oui. On peut y aller maintenant ?
+RickeyLand_RickeyQuest4_3 = Bien sur, suivez-moi.
+RickeyLand_RickeyQuest4_4 = Je suis la fille jusqu'au château, à l'autre bout du parc.
+RickeyLand_RickeyQuest4_5 = Le chateau est juste devant moi. Il est plutôt grand.
+RickeyLand_RickeyQuest4_6 = Donc Rickey se cache à l'intérieur ?
+RickeyLand_RickeyQuest4_7 = Oui. Il devrait être dans la tour principale. C'est ses quartiers privés.
+RickeyLand_RickeyQuest4_8 = Hein ? Que ce passe-t-il ?
+RickeyLand_RickeyQuest4_9 = La porte s'ouvre soudainement. Un étrange personnage sort du chateau.
+RickeyLand_RickeyQuest4_10 = Ah Ah ! Il est temps d'aller au hangar à panzer !
+RickeyLand_RickeyQuest4_11 = La fortresse sera à moi ! Je vais devenir riche !
+RickeyLand_RickeyQuest4_12 = Le... Le PDG ?!
+RickeyLand_RickeyQuest4_13 = Quoi ? Qui est là ? Natasha ?!
+RickeyLand_RickeyQuest4_14 = Que fais-ici ?! Je t'avais pourtant enfermé dans une cage tout à l'heure.
+RickeyLand_RickeyQuest4_15 = Bon sang ! Ces gardes sont aussi utiles qu'ils en ont l'air !
+RickeyLand_RickeyQuest4_16 = Je savais que j'aurais du investir dans plus de panzers à la place...
+RickeyLand_RickeyQuest4_17 = Monsieur le PDG... S'il vous plait, réfléchissez !
+RickeyLand_RickeyQuest4_18 = Rien de bon ne sortira de cette expédition.
+RickeyLand_RickeyQuest4_19 = Pour le futur de RickeyLand, vous devriez ne pas la lancer.
+RickeyLand_RickeyQuest4_20 = S'il vous plait ! Nous trouverons un autre moyen de repayer nos dêtes, j'en suis sur !
+RickeyLand_RickeyQuest4_21 = Silence !
+RickeyLand_RickeyQuest4_22 = Monsieur le PDG ?
+RickeyLand_RickeyQuest4_23 = Secrétaire inutile, tu es viré !
+RickeyLand_RickeyQuest4_24 = J'ai toujours raison ! L'économie ne me comprend pas !
+RickeyLand_RickeyQuest4_25 = Ils pensent pouvoir m'arrêter avec, comment ils appellent ça, des dêtes ?!
+RickeyLand_RickeyQuest4_26 = Non ! Je suis le meilleur PDG du continent ! Je ne peux pas avoir tord !
+RickeyLand_RickeyQuest4_27 = Ils veulent de l'argent ? Très bien ! Je vais aller en chercher à la forteresse !
+RickeyLand_RickeyQuest4_28 = Et en retour, je vais en prendre le contrôle !
+RickeyLand_RickeyQuest4_29 = Une grande forteresse, juste pour moi ! La forteresse Rickey !
+RickeyLand_RickeyQuest4_30 = Monsieur le PDG ! S'il vous plait ! Calmez-vous...
+RickeyLand_RickeyQuest4_31 = Silence !
+RickeyLand_RickeyQuest4_32 = J'en ai assez de toi ! Tu me dis toujours ce que je dois faire !
+RickeyLand_RickeyQuest4_33 = Tu es viré, viré, viré !
+RickeyLand_RickeyQuest4_34 = Meurt !
+RickeyLand_RickeyQuest4_35 = Rickey saute et pousse violament Natasha.
+RickeyLand_RickeyQuest4_36 = Ah !
+RickeyLand_RickeyQuest4_37 = Elle tombe du pont, et atteri dans l'eau en contrebas.
+RickeyLand_RickeyQuest4_38 = Ah Ah ! Que cela te serve de leçon !
+RickeyLand_RickeyQuest4_39 = Je n'ai pas besoin de secrétaire ! Je suis tout ce dont j'ai besoin !
+RickeyLand_RickeyQuest4_40 = Moi, mes panzers et mon équipe de sécurité ! La trinité parfaite !
+RickeyLand_RickeyQuest4_41 = Et toi ! Qui es-tu ? Pourquoi venir ici ?
+RickeyLand_RickeyQuest4_42 = Je sais ! Tu es venu voler mon panzer rare ! Mon magnifique panzer !
+RickeyLand_RickeyQuest4_43 = ... Il est fou.
+RickeyLand_RickeyQuest4_44 = Je suis venu vous empecher d'attaquer la forteresse. Je dois préserver la paix.
+RickeyLand_RickeyQuest4_45 = La paix ?! Et mon argent ? L'or de la forteresse est à moi ! Je l'ai dis, donc c'est forcément vrai ! 
+RickeyLand_RickeyQuest4_46 = Grr... Tu m'agaces ! Quel est ton nom, brigand ?
+RickeyLand_RickeyQuest4_47 = Hein ? Oh, euh... Harold ?
+RickeyLand_RickeyQuest4_48 = Harold ?! Quel nom ridicule ! Parfait pour un paysan comme toi !
+RickeyLand_RickeyQuest4_49 = Je vais te faire mordre la poussière, Harold ! Regarde ça !
+RickeyLand_RickeyQuest4_50 = Rickey me saute dessus. Je me prépare.
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------

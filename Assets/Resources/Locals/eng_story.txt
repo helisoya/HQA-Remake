@@ -516,6 +516,60 @@ RickeyLand_RickeyQuest3_4 = What an ugly sight... Let's find the pass and head o
 RickeyLand_RickeyQuest3_5 = After a few minutes, I manage to find the pass. It's in sale for 10 galuses ? Free is better.
 RickeyLand_RickeyQuest3_6 = Well. Time to head back to the plaza.
 
+RickeyLand_RickeyQuest4_1 = Ah. Did you find a pass ?
+RickeyLand_RickeyQuest4_2 = Yes. Can we go now ?
+RickeyLand_RickeyQuest4_3 = Of course. Follow me, please.
+RickeyLand_RickeyQuest4_4 = I follow the girl to the castle at the far end of the park.
+RickeyLand_RickeyQuest4_5 = The castle is right in front of me. It's moderatly huge.
+RickeyLand_RickeyQuest4_6 = So Rickey is holded up in here ?
+RickeyLand_RickeyQuest4_7 = Yes. He should be in the main tower. It's his private quarters.
+RickeyLand_RickeyQuest4_8 = Uh ? What's going on ?
+RickeyLand_RickeyQuest4_9 = The door suddenly opens. A strange character comes out of the castle.
+RickeyLand_RickeyQuest4_10 = Ah Ah ! Time to get to the panzer hangar !
+RickeyLand_RickeyQuest4_11 = The fortress will be mine ! I'm going to get rich !
+RickeyLand_RickeyQuest4_12 = The... The CEO ?!
+RickeyLand_RickeyQuest4_13 = Uh ? Who's here ? Natasha ?!
+RickeyLand_RickeyQuest4_14 = What are you doing here ?! Didn't I lock you up earlier ?
+RickeyLand_RickeyQuest4_15 = Damn ! These guards are as useless as they look !
+RickeyLand_RickeyQuest4_16 = I knew I should have invested in more panzers instead...
+RickeyLand_RickeyQuest4_17 = Mister CEO... Please, reconsider !
+RickeyLand_RickeyQuest4_18 = Nothing good will come out of this expedition.
+RickeyLand_RickeyQuest4_19 = For the future of RickeyLand, you should refrain from doing it.
+RickeyLand_RickeyQuest4_20 = Please ! We'll find another way to repay our debts, I'm sure of it !
+RickeyLand_RickeyQuest4_21 = Silence !
+RickeyLand_RickeyQuest4_22 = Mister CEO ?
+RickeyLand_RickeyQuest4_23 = Useless secretary ! You're fired !
+RickeyLand_RickeyQuest4_24 = I'm always right ! The economy doesn't understand me !
+RickeyLand_RickeyQuest4_25 = They think they can stop me with, how did they call it, debts ?!
+RickeyLand_RickeyQuest4_26 = No ! I'm the greatest CEO ever ! I can't be wrong !
+RickeyLand_RickeyQuest4_27 = They want money ? Fine ! I'll go get some from the fortress !
+RickeyLand_RickeyQuest4_28 = And in return, I'll take control of it !
+RickeyLand_RickeyQuest4_29 = A grand fortress, just for me ! The Rickey Fortress !
+RickeyLand_RickeyQuest4_30 = Mister CEO ! Please ! Snap out of it...
+RickeyLand_RickeyQuest4_31 = Shut up !
+RickeyLand_RickeyQuest4_32 = I've had enough with you ! Always telling me what to do !
+RickeyLand_RickeyQuest4_33 = You're fired, fired, fired !
+RickeyLand_RickeyQuest4_34 = Die !
+RickeyLand_RickeyQuest4_35 = Rickey leaps and pushes Natasha violently.
+RickeyLand_RickeyQuest4_36 = Ah !
+RickeyLand_RickeyQuest4_37 = She falls of the bridge and into the water below.
+RickeyLand_RickeyQuest4_38 = Ah Ah ! Serves you right !
+RickeyLand_RickeyQuest4_39 = I don't need a secretary ! I'm all I will ever need !
+RickeyLand_RickeyQuest4_40 = Me, my panzers and my security staff ! The perfect trinity !
+RickeyLand_RickeyQuest4_41 = And you ! Who are you ? Why did you come to this place ?
+RickeyLand_RickeyQuest4_42 = I know ! You want to steal my rare panzer ! My beautiful panzer !
+RickeyLand_RickeyQuest4_43 = ... He's insane.
+RickeyLand_RickeyQuest4_44 = I'm here to stop you from attacking the fortress. I must preserve peace.
+RickeyLand_RickeyQuest4_45 = Peace ?! And my money ? The fortress's gold is mine ! I said it, so it must be true !
+RickeyLand_RickeyQuest4_46 = Grr... You annoy me ! What is your name, fiend ?
+RickeyLand_RickeyQuest4_47 = Uh ? Oh, hum... Harold ?
+RickeyLand_RickeyQuest4_48 = Harold ?! What a shity name ! Fitting for a disgusting peasant like you !
+RickeyLand_RickeyQuest4_49 = I'll wipe the floor with you, Harold ! Just watch !
+RickeyLand_RickeyQuest4_50 = Rickey leaps at me. I steel myself.
+
+
+
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
