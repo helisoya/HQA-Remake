@@ -62,7 +62,7 @@ public class AudioManager : MonoBehaviour
         AudioClip song = Resources.Load<AudioClip>("Audio/Music/" + songName);
         if (activeSong != null && activeSong.clip == song) return;
 
-        print(song);
+        print("Loading song : " + song);
 
         if (song != null)
         {

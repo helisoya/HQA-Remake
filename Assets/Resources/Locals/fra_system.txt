@@ -63,7 +63,8 @@ rules_TA_controls = Utilisez la souris pour vous déplacer<br>Utilisez le clic g
 rules_BBR_goal = Battez Rickey.
 rules_BBR_controls = Attaquez pour infliger des dégats. <br>Parez pour regagner de la vie
 
-
+rules_PR_goal = Battez Rickey.
+rules_PR_controls = -Flêche bas : Bloquer<br>-Flêche haute : Attaquer
 
 
 game_life = HP : 

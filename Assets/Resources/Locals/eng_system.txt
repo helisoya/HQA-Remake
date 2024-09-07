@@ -64,6 +64,8 @@ rules_TA_controls = Use the mouse to move <br>Use left click to shoot
 rules_BBR_goal = Defeat Rickey.
 rules_BBR_controls = Attack to deal damage. <br>Guard to gain HP back
 
+rules_PR_goal = Defeat Rickey.
+rules_PR_controls = -Down Arrow : Block<br>-Up Arrow : Attack
 
 
 game_life = HP : 
