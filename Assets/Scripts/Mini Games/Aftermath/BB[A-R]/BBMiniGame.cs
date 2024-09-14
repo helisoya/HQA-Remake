@@ -122,7 +122,7 @@ public class BBMiniGame : MiniGame
                 yield return new WaitForSeconds(0.5f);
                 // AI
                 AudioManager.instance.PlaySFX(ennemyAttackSound);
-                cannon.Play();
+                if (cannon) cannon.Play();
                 ennemyAnimator.CrossFade("Attack", 0.1f);
                 currentPlayerHP = Add(currentPlayerHP, -((averageEnnemyDamage + Random.Range(-10, 10)) / (playerGuarding ? 2 : 1)), 0, maxPlayerHP);
                 RefreshHealthBars();

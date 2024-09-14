@@ -565,6 +565,20 @@ RickeyLand_RickeyQuest4_48 = Harold ?! Quel nom ridicule ! Parfait pour un paysa
 RickeyLand_RickeyQuest4_49 = Je vais te faire mordre la poussière, Harold ! Regarde ça !
 RickeyLand_RickeyQuest4_50 = Rickey me saute dessus. Je me prépare.
 
+RickeyLand_RickeyQuest4_51 = Argh ! Impossible !
+RickeyLand_RickeyQuest4_52 = Comment ais-je pu perdre ?! Tu as forcément triché !
+RickeyLand_RickeyQuest4_53 = N'attaque pas la forteresse, ou je vais te faire encore plus mal.
+RickeyLand_RickeyQuest4_54 = Tu... Tu... RAAAAAAAA !
+RickeyLand_RickeyQuest4_55 = Je me souviendrai de ton nom, Harold ! Souviens-toi de ça !
+RickeyLand_RickeyQuest4_56 = Un jour, tu regretera d'avoir croisé mon chemin !
+RickeyLand_RickeyQuest4_57 = Rickey prend la fuite et entre dans son château.
+RickeyLand_RickeyQuest4_58 = Bien... Je suppose que c'est suffisant.
+RickeyLand_RickeyQuest4_59 = Il est temps de retourner à l'entrée.
+RickeyLand_RickeyQuest4_60 = J'espère juste ne pas arriver trop tard pour m'occuper de l'archer.
+RickeyLand_RickeyQuest4_61 = Je commence à marcher.
+RickeyLand_RickeyQuest4_62 = Après quelques minutes, je suis de retour à l'entrée. Il pleut...
+
+
 # ---------------------------------------------------------
 # ------------------- Marais ------------------------------
 # ---------------------------------------------------------
@@ -696,6 +710,16 @@ Swamtyr_OldMan_ArcherQuest0_12 = Il m'a même interdit d'entrer le marais sans l
 Swamtyr_OldMan_ArcherQuest0_13 = Intéressant... Je lui en parlerait.
 Swamtyr_OldMan_ArcherQuest0_14 = Bien, je dois maintenant fouiller le marais. Le temps presse.   
 
+Swamtyr_ArcherGoesToFortress_1 = Maintenant, trouvons cet archer... Il devrait être dans le coin.
+Swamtyr_ArcherGoesToFortress_2 = Peut être que le vieillard peut m'aider.
+Swamtyr_ArcherGoesToFortress_3 = Eh. Ou est l'archer ?
+Swamtyr_ArcherGoesToFortress_4 = Hein ? Oh. Ce fou est parti il y a environ 30 minutes.
+Swamtyr_ArcherGoesToFortress_5 = Il était revenu d'une session d'entrainement dans le marais, et a dit "Je suis prêt à trouver des artefacts !".
+Swamtyr_ArcherGoesToFortress_6 = Je n'ai aucune idée de ce qu'il voulait dire...
+Swamtyr_ArcherGoesToFortress_7 = Super. Cela veut dire qu'il est déjà à la forteresse.
+Swamtyr_ArcherGoesToFortress_8 = Je dois me dépecher, ou sinon on va avoir des ennuis.
+
+
 # ---------------------------------------------------------
 # ---------------- Montagnes ------------------------------
 # ---------------------------------------------------------
@@ -765,6 +789,58 @@ Fortress_MainQuest2_Rickey_50 = Ou du moins, il essaie. A cause de la taille de 
 Fortress_MainQuest2_Rickey_51 = Euh ? Oh non !
 Fortress_MainQuest2_Rickey_52 = Au secours ! PDG en danger !
 Fortress_MainQuest2_Rickey_53 = Le tank tombe de la corniche. On ne le reverra plus pendant un moment.
+
+
+Fortress_MainQuest2_Archer_1 = J'arrive enfin à la forteresse.
+Fortress_MainQuest2_Archer_2 = Ou est l'archer ? Suis-je arrivé trop tard ?
+Fortress_MainQuest2_Archer_3 = Je le remarque soudainement sur le pont. Il a l'air de revenir de la forteresse.
+Fortress_MainQuest2_Archer_4 = Et bien bonjour ! Que faites-vous seul dans les montagnes ?
+Fortress_MainQuest2_Archer_5 = Vous savez que c'est dangereux, surtout la nuit ?
+Fortress_MainQuest2_Archer_6 = Ou alors vous vouliez me voir, moi, le grand archer ?
+Fortress_MainQuest2_Archer_7 = Vous savez, je suis assez connu dans le coin.
+Fortress_MainQuest2_Archer_8 = Personne ne me surpasse ! Surtout pas ce type tueur de dragon !
+Fortress_MainQuest2_Archer_9 = En fait, je suis plutôt intéressé dans ce que tu étais en train de faire à l'instant.
+Fortress_MainQuest2_Archer_10 = Oh ? Droit au but, je vois.
+Fortress_MainQuest2_Archer_11 = Et bien, comme vous le voyez, j'explorais la forteresse.
+Fortress_MainQuest2_Archer_12 = J'ai trouvé plein d'artefacts puissant à l'intérieur. C'est incroyable !
+Fortress_MainQuest2_Archer_13 = Je suis sur qu'ils vont me permettre de devenir plus fort !
+Fortress_MainQuest2_Archer_14 = Mais pourquoi ? Tu sais qu'ils peuvent être dangereux.
+Fortress_MainQuest2_Archer_15 = Ah Ah ! Ne t'inquiête pas ! Je vais m'en tirer.
+Fortress_MainQuest2_Archer_16 = Même si je perd un bras, la récompense en vaudra le prix. La puissance inifinie !
+Fortress_MainQuest2_Archer_17 = Tu es juste fou. Quel est ton but ?
+Fortress_MainQuest2_Archer_18 = Fou, moi ? Ah ! C'est ridicule !
+Fortress_MainQuest2_Archer_19 = Je ne recherche que le pouvoir, la puissance, et la gloire.
+Fortress_MainQuest2_Archer_20 = Les gens me prennent de haut. Ils pensent que je ne suis pas à la hauteur. Ils ont tord !
+Fortress_MainQuest2_Archer_21 = Je suis le meilleur archer ! Ils sont juste jaloux de moi !
+Fortress_MainQuest2_Archer_22 = De quoi tu parles ?
+Fortress_MainQuest2_Archer_23 = Ferme là ! Je sais pourquoi tu es la !
+Fortress_MainQuest2_Archer_24 = Tu veux voler mes artefacts, ma gloire !
+Fortress_MainQuest2_Archer_25 = Je ne vais pas te laisser faire ! Ils sont à moi !
+Fortress_MainQuest2_Archer_26 = Seul moi peut prétendre au titre de meilleur archer du continent !
+Fortress_MainQuest2_Archer_27 = Et je vais te tuer pour ton insolence !
+Fortress_MainQuest2_Archer_28 = L'archer sort un anneau de sa poche, et le met.
+Fortress_MainQuest2_Archer_29 = Ah Ah Ah ! Parfait !
+Fortress_MainQuest2_Archer_30 = Qu- Quoi ?!
+Fortress_MainQuest2_Archer_31 = L'archer est maintenant violet. Qu'est ce qui s'est passé ?
+Fortress_MainQuest2_Archer_32 = Cet anneau me rend plus fort, peut être même invincible.
+Fortress_MainQuest2_Archer_33 = Donc tu penses pouvoir voler ma gloire ?
+Fortress_MainQuest2_Archer_34 = Faisons un duel, là, maintenant.
+Fortress_MainQuest2_Archer_35 = Le gagnant pourra prendre les artefacts. Eh Eh Eh.
+Fortress_MainQuest2_Archer_36 = C'est de la triche, tu les utilises pour combattre !
+Fortress_MainQuest2_Archer_37 = Silence ! Prépares-toi !
+Fortress_MainQuest2_Archer_38 = L'archer se prépare. Je n'ai cependant pas d'arme.
+
+Fortress_MainQuest2_Archer_39 = Que fais-tu? Tu dors avant un combat ?
+Fortress_MainQuest2_Archer_40 = Eh... C'est une hache ? Tu l'as depuis quand ?
+Fortress_MainQuest2_Archer_41 = Peu importe ! Il est temps pour toi de mourir !
+Fortress_MainQuest2_Archer_42 = Je me prépare au combat.
+
+Fortress_MainQuest2_Archer_43 = Argh !
+Fortress_MainQuest2_Archer_44 = L'archer fait un pas en arrière. Les effets de l'anneau ont l'air d'avoir pris fin.
+Fortress_MainQuest2_Archer_45 = Cependant, il trébuche en reculant, et commence à tomber de la falaise.
+Fortress_MainQuest2_Archer_46 = Quoi ?! Non !
+Fortress_MainQuest2_Archer_47 = J'ai réussit.
+
 
 Fortress_MainQuest2_HaroldWeapon_1 = [MC] ! Vous pouvez m'entendre ?
 Fortress_MainQuest2_HaroldWeapon_2 = Soudain, j'entend la voix d'Harold.

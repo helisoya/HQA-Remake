@@ -61,6 +61,7 @@ rules_TA_goal = Trouvez et tirer sur l'arche avant qu'il ne vous tue.
 rules_TA_controls = Utilisez la souris pour vous déplacer<br>Utilisez le clic gauche pour tirer
 
 rules_BBR_goal = Battez Rickey.
+rules_BBA_goal = Battez l'Archer.
 rules_BBR_controls = Attaquez pour infliger des dégats. <br>Parez pour regagner de la vie
 
 rules_PR_goal = Battez Rickey.

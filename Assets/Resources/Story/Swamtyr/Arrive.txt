@@ -4,11 +4,11 @@ setBackground(Swamtyr)
 
 if(rain = 1) changeSkybox(NightRain)
 
-if(rickeyQuest = 100 & mainQuest = 1) Swamtyr/ArcherGoesToFortress
-
 addCharacter(OldMan;false)
 setCharacterPosition(OldMan;Civilian3)
 setCharacterRotation(OldMan;Civilian3)
+
+if(rickeyQuest = 100 & mainQuest = 1) Swamtyr/ArcherGoesToFortress
 
 load(Swamtyr/Interaction)
 

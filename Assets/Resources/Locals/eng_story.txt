@@ -567,7 +567,18 @@ RickeyLand_RickeyQuest4_48 = Harold ?! What a shity name ! Fitting for a disgust
 RickeyLand_RickeyQuest4_49 = I'll wipe the floor with you, Harold ! Just watch !
 RickeyLand_RickeyQuest4_50 = Rickey leaps at me. I steel myself.
 
-
+RickeyLand_RickeyQuest4_51 = Argh ! Impossible !
+RickeyLand_RickeyQuest4_52 = How could you defeat me in battle ?! You must have cheated !
+RickeyLand_RickeyQuest4_53 = Don't attack the fortress, or I'll make sure to hurt you more.
+RickeyLand_RickeyQuest4_54 = You... You... RAAAAAAAA !
+RickeyLand_RickeyQuest4_55 = I'll remember your name, Harold ! Mark my word !
+RickeyLand_RickeyQuest4_56 = One day, you'll regret ever crossing my path !
+RickeyLand_RickeyQuest4_57 = Rickey runs away, and enters his castle.
+RickeyLand_RickeyQuest4_58 = Well... I guess that does it.
+RickeyLand_RickeyQuest4_59 = Time to head back to the entrance.
+RickeyLand_RickeyQuest4_60 = I just hope I'm not too late to stop the archer.
+RickeyLand_RickeyQuest4_61 = I start heading back.
+RickeyLand_RickeyQuest4_62 = After a few minutes, I'm back at the entrance. It's raining too...
 
 
 # ---------------------------------------------------------
@@ -698,7 +709,16 @@ Swamtyr_OldMan_ArcherQuest0_10 = I see. This boy sure is troublesome.
 Swamtyr_OldMan_ArcherQuest0_11 = Ever since he killed that ogre, he's bragging all day about it.
 Swamtyr_OldMan_ArcherQuest0_12 = He even forbade me from entering the swamp without him. What a joke.
 Swamtyr_OldMan_ArcherQuest0_13 = Interresting... I'll talk to him about that.
-Swamtyr_OldMan_ArcherQuest0_14 = Well, time to search the swamp. I don't have much time.  
+Swamtyr_OldMan_ArcherQuest0_14 = Well, time to search the swamp. I don't have much time.
+
+Swamtyr_ArcherGoesToFortress_1 = Now to find this archer... He should be somewhere around here.
+Swamtyr_ArcherGoesToFortress_2 = Maybe the old man can help me.
+Swamtyr_ArcherGoesToFortress_3 = Hey. Where is the archer ?
+Swamtyr_ArcherGoesToFortress_4 = Uh ? Oh. The rascal ran off about 30 minutes ago.
+Swamtyr_ArcherGoesToFortress_5 = He came back from a training session in the swamp, and said "I'm ready to find artefacts !".
+Swamtyr_ArcherGoesToFortress_6 = I don't know what he meant though...
+Swamtyr_ArcherGoesToFortress_7 = Great. This means he's already at the fortress.
+Swamtyr_ArcherGoesToFortress_8 = I have to hurry, or else there will be troubles. 
 
 # ---------------------------------------------------------
 # ---------------- Montagnes ------------------------------
@@ -769,6 +789,58 @@ Fortress_MainQuest2_Rickey_50 = Or at least, he tries to. Due to the size of his
 Fortress_MainQuest2_Rickey_51 = Uh ? Oh no !
 Fortress_MainQuest2_Rickey_52 = SOMEONE HELP ! CEO IN DANGER !
 Fortress_MainQuest2_Rickey_53 = The tank falls of the cliff. We won't be seeing Rickey anytime soon.
+
+
+Fortress_MainQuest2_Archer_1 = I finally arrive to the fortress.
+Fortress_MainQuest2_Archer_2 = Where is the archer ? Am I too late after all ?
+Fortress_MainQuest2_Archer_3 = I suddenly spot him on the bridge. He seems to be coming back from the fortress.
+Fortress_MainQuest2_Archer_4 = Why hello there ! What are you doing alone in the mountains ?
+Fortress_MainQuest2_Archer_5 = You are aware that it's quite dangerous out here, especially at night, right ?
+Fortress_MainQuest2_Archer_6 = Or did you want to meet me, the great Archer ?
+Fortress_MainQuest2_Archer_7 = I'll have you know, I'm quite the reknowned hunter.
+Fortress_MainQuest2_Archer_8 = Nobody surpasses me ! Especially not that dragon killer guy !
+Fortress_MainQuest2_Archer_9 = Actually, I'm more interested in what you were doing just now.
+Fortress_MainQuest2_Archer_10 = Uh ? Straight to the point, I see.
+Fortress_MainQuest2_Archer_11 = Well, you see. I was exploring the fortress. 
+Fortress_MainQuest2_Archer_12 = I found a ton of powerful artefacts in there ! It's so great !
+Fortress_MainQuest2_Archer_13 = I'm sure they'll enhance my abilities !
+Fortress_MainQuest2_Archer_14 = What ? Why ? You know these things can be dangerous.
+Fortress_MainQuest2_Archer_15 = Ah Ah ! Don't worry about me ! I'll be fine !
+Fortress_MainQuest2_Archer_16 = Even if I loose an arm, the reward will be worth it. Infinite power !
+Fortress_MainQuest2_Archer_17 = You're just crazy. Why are you doing this ?
+Fortress_MainQuest2_Archer_18 = Crazy, me ? Ah ! Ridiculous !
+Fortress_MainQuest2_Archer_19 = I only seek power, strength, and fame.
+Fortress_MainQuest2_Archer_20 = People look down on me. They think I'm not worth it. They're wrong !
+Fortress_MainQuest2_Archer_21 = I'm the greatest archer ! They are just jaleous of me !
+Fortress_MainQuest2_Archer_22 = What are you even talking about ?
+Fortress_MainQuest2_Archer_23 = Shut it ! I know why you're here.
+Fortress_MainQuest2_Archer_24 = You want to steal my artefacts, my fame !
+Fortress_MainQuest2_Archer_25 = I won't let you ! They are mine !
+Fortress_MainQuest2_Archer_26 = Only I can claim to be the greatest hunter of the continent !
+Fortress_MainQuest2_Archer_27 = And I'm going to kill you for your insolence !
+Fortress_MainQuest2_Archer_28 = The archer takes a ring out of his pocket, and puts it on.
+Fortress_MainQuest2_Archer_29 = Ah Ah Ah ! Perfect !
+Fortress_MainQuest2_Archer_30 = Wh- What ?!
+Fortress_MainQuest2_Archer_31 = The archer is now purple. What happened ?
+Fortress_MainQuest2_Archer_32 = This rings makes me more powerful, maybe even invincible !
+Fortress_MainQuest2_Archer_33 = So, you still think you can steal my fame ?
+Fortress_MainQuest2_Archer_34 = Let's fight, right here, right now.
+Fortress_MainQuest2_Archer_35 = The winner can take the artefacts. Eh Eh Eh.
+Fortress_MainQuest2_Archer_36 = This is unfair, you are using them to fight !
+Fortress_MainQuest2_Archer_37 = Shut up ! Prepare yourself.
+Fortress_MainQuest2_Archer_38 = The archer prepares himself. I don't have a weapon though...
+
+Fortress_MainQuest2_Archer_39 = What are you doing ? Spacing out before a battle ?
+Fortress_MainQuest2_Archer_40 = Hey... Is that an axe ? When did you get that ?
+Fortress_MainQuest2_Archer_41 = Whatever ! It's time for you to die !
+Fortress_MainQuest2_Archer_42 = I prepare for battle.
+
+Fortress_MainQuest2_Archer_43 = Argh !
+Fortress_MainQuest2_Archer_44 = The archer takes a step back. The effects of the ring seem to have worn out.
+Fortress_MainQuest2_Archer_45 = However, he trips with moving back and start falling off the cliff.
+Fortress_MainQuest2_Archer_46 = What ?! No !
+Fortress_MainQuest2_Archer_47 = I did it.
+
 
 Fortress_MainQuest2_HaroldWeapon_1 = [MC] ! Can you hear me ?
 Fortress_MainQuest2_HaroldWeapon_2 = Suddenly, I hear Harold's voice.
