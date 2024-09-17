@@ -129,3 +129,7 @@ archerQuest_1 = Trouver l'archer dans le marais
 archerQuest_2 = Parler au chasseur
 archerQuest_3 = Trouver le chasseur dans le marais
 archerQuest_4 = Confronter l'archer dans le marais
+
+guardQuest = La trace de la secte
+guardQuest_0 = Obtenir la liste d'Harold
+guardQuest_1 = Donner la liste à GARDE

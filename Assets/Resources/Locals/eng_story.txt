@@ -49,6 +49,7 @@ Choice_AboutRickey = About Rickey
 Choice_AboutArcher = About the Archer
 Choice_WhyMe = Why me ?
 Choice_Guild = About the guild
+Choice_AboutSect = About the sect
 
 Choice_Left = Go left
 Choice_Right = Go right
@@ -222,31 +223,17 @@ ChezHarold_Harold_MainQuest3_2 = You'll find the quartz we need there.
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
 
+ChezHarold_GUARDQuest0_1 = Uh ? Harold isn't here ?
+ChezHarold_GUARDQuest0_2 = I wanted to ask him about GUARD's list...
+ChezHarold_GUARDQuest0_3 = Oh well... Maybe I can find it without him.
+ChezHarold_GUARDQuest0_4 = I start looking around to see if I can find it.
+ChezHarold_GUARDQuest0_5 = After looking for a bit, I manage to find it sandwiched between two books.
+ChezHarold_GUARDQuest0_6 = There it is. The list of the sect's members...
+ChezHarold_GUARDQuest0_7 = There aren't many names on it though.
+ChezHarold_GUARDQuest0_8 = The list's title is "Kalia's Chapter". I wonder what it means.
+ChezHarold_GUARDQuest0_9 = I should give this to GUARD.
 
-ChezHarold_End_1 = When I arrive, Harold is already outside.
-ChezHarold_End_2 = [MC] ! You're back ! How did it go ?
-ChezHarold_End_3 = I killed the dragon, and got your "treasure" back.
-ChezHarold_End_4 = Ah, Ah... Thank you very much.
-ChezHarold_End_5 = I'm sorry for tricking you like that.
-ChezHarold_End_6 = I thought you wouldn't believe me if I told you the truth...
-ChezHarold_End_7 = But hey, it worked out in the end, right ?
-ChezHarold_End_8 = Yes, I suppose...
-ChezHarold_End_9 = So ! Thanks to your efforts, Vlatyr is now safe.
-ChezHarold_End_10 = The dragon is gone, and cars will stop being targeted.
-ChezHarold_End_11 = You can't even begin to understand how much this was a problem.
-ChezHarold_End_12 = I think I saw some burned cars on my journey. I can guess the troubles he caused.
-ChezHarold_End_13 = Yes. Well, I suppose it's time for me to send you back, as I had promised.
-ChezHarold_End_14 = Here ! Drink this !
-ChezHarold_End_15 = Harold gives me his mug. Its content is green, what is it ?
-ChezHarold_End_16 = It's a potion that will send you back to your world.
-ChezHarold_End_17 = I see. Thank you, Harold.
-ChezHarold_End_18 = You're welcome ! Maybe we'll see each other another time ? Who knows...
-ChezHarold_End_19 = Maybe. For now, goodbye.
-ChezHarold_End_20 = Farewell, [MC].
-ChezHarold_End_21 = I drink the potion. I pass out instantly.
-ChezHarold_End_22 = When I come to, I'm home, in the real world.
-ChezHarold_End_23 = Well, that was some adventure.
-ChezHarold_End_24 = I wonder if I'll meet Harold again...
+
 
 # ---------------------------------------------------------
 # ------------------- Vlatyr ------------------------------
@@ -338,6 +325,73 @@ Vlatyr_ChezBoyardee_MainQuest0_81 = Time to attack our targets.
 Vlatyr_ChezBoyardee_MainQuest0_82 = Rickey is hiding in RickeyLand, his amusement park.
 Vlatyr_ChezBoyardee_MainQuest0_83 = The archer is currently staying in the small village of Swamtyr.
 Vlatyr_ChezBoyardee_MainQuest0_84 = I have to be careful, I wasted too much time here. I may very well only be able to attack one of them.
+
+
+Vlatyr_GUARD_QuestStart_1 = Hey, you !
+Vlatyr_GUARD_QuestStart_2 = I require assistance. Could you help me for a bit ?
+Vlatyr_GUARD_QuestStart_3 = Depends... How much can you pay ?
+Vlatyr_GUARD_QuestStart_4 = Grr... I knew it would end up like that...
+Vlatyr_GUARD_QuestStart_5 = How about 100 galuses ? It's a generous offer.
+Vlatyr_GUARD_QuestStart_6 = Deal. So, what do you need ?
+Vlatyr_GUARD_QuestStart_7 = Great ! Actually, I want you to steal a document for me.
+Vlatyr_GUARD_QuestStart_8 = A document ? What kind of document ?
+Vlatyr_GUARD_QuestStart_9 = It's a list of names. Nothing too dangerous.
+Vlatyr_GUARD_QuestStart_10 = An old man named Harold is in possession of this list. I'll show you were he lives on the map.
+Vlatyr_GUARD_QuestStart_11 = Harold ? He means this Harold ?
+Vlatyr_GUARD_QuestStart_12 = An old man ? Why ?
+Vlatyr_GUARD_QuestStart_13 = Well, I can't tell much. It's a secret.
+Vlatyr_GUARD_QuestStart_14 = But I can at least tell you that I'm currently on the trail of a sect.
+Vlatyr_GUARD_QuestStart_15 = They are dangerous people that needs to be stoped.
+Vlatyr_GUARD_QuestStart_16 = I vowed to do so. So here I am, searching for clues in Vlatyr.
+Vlatyr_GUARD_QuestStart_17 = While doing so, I overheard suspicious talks about this Harold.
+Vlatyr_GUARD_QuestStart_18 = Apparently, he owns a list of some of the sect's members.
+Vlatyr_GUARD_QuestStart_19 = I don't know if he's working with or against them, though.
+Vlatyr_GUARD_QuestStart_20 = So you want me to steal his list ?
+Vlatyr_GUARD_QuestStart_21 = Right. I would have done it myself, but the sect know my face.
+Vlatyr_GUARD_QuestStart_22 = It wouldn't be wise for me to go out in the open. 
+Vlatyr_GUARD_QuestStart_23 = Alright, alright. I'll go check it out.
+Vlatyr_GUARD_QuestStart_24 = Thanks a lot !
+Vlatyr_GUARD_QuestStart_25 = Oh, and I'm GUARD ! Pleased to meet you. 
+Vlatyr_GUARD_QuestStart_26 = Likewise... I'm [MC]. I'll be back soon.
+Vlatyr_GUARD_QuestStart_27 = Time to head to Harold's house.
+Vlatyr_GUARD_QuestStart_28 = Considering his alliegence to his guild, he may very well be keeping tabs on this sect.
+Vlatyr_GUARD_QuestStart_29 = Maybe he'll just give the list to me if I talk to him.
+
+Vlatyr_GUARD = Don't forget to find Harold, [MC].
+
+Vlatyr_GUARD_AboutYou_1 = I'm an ex-bodyguard if you can believe that.
+Vlatyr_GUARD_AboutYou_2 = I used to protect a local politician a few months ago.
+Vlatyr_GUARD_AboutYou_3 = Long story short, he was assassinated.
+Vlatyr_GUARD_AboutYou_4 = Since he was on the trail of a sect, I belive they ordered the assassination.
+Vlatyr_GUARD_AboutYou_5 = I since vowed to track down and dismantle that sect.
+Vlatyr_GUARD_AboutYou_6 = It was quite hard at first, since I didn't have any lead at all.
+Vlatyr_GUARD_AboutYou_7 = But everything changed when I heard about this "Harold".
+Vlatyr_GUARD_AboutYou_8 = I hope this lead will bear fruits...
+
+Vlatyr_GUARD_AboutSect_1 = The sect is mysterious, you know.
+Vlatyr_GUARD_AboutSect_2 = The only thing that is known about them is that they practice summoning.
+Vlatyr_GUARD_AboutSect_3 = It's a form of magic that allows you to summon various things. Such as weapons and people.
+Vlatyr_GUARD_AboutSect_4 = It's members are kept secret. It's next to impossible to know who's a member, yet alone to capture one.
+Vlatyr_GUARD_AboutSect_5 = Every time I thought I got one, they either died suddenly, or disapear.
+Vlatyr_GUARD_AboutSect_6 = This Harold guy must be something if he managed to keep a list of the sect's members.
+
+Vlatyr_GUARD_QuestEnd_1 = Ah, you came back ! Did you have any luck ?
+Vlatyr_GUARD_QuestEnd_2 = Yes, I found a list. Just like you told me I would.
+Vlatyr_GUARD_QuestEnd_3 = Great ! You did a fine job.
+Vlatyr_GUARD_QuestEnd_4 = Let me see it, please.
+Vlatyr_GUARD_QuestEnd_5 = I hand him the list.
+Vlatyr_GUARD_QuestEnd_6 = ... I see... Kalia...
+Vlatyr_GUARD_QuestEnd_7 = Good job, this is a huge lead !
+Vlatyr_GUARD_QuestEnd_8 = This list contains the name of the sect's members in the city of Kalia.
+Vlatyr_GUARD_QuestEnd_9 = If I head there, I should be able to at least dismantle the city's chapter.
+Vlatyr_GUARD_QuestEnd_10 = I really can't thank you enough for what you did.
+Vlatyr_GUARD_QuestEnd_11 = Here. This is your pay, as promised.
+Vlatyr_GUARD_QuestEnd_12 = Pleasure doing business with you.
+Vlatyr_GUARD_QuestEnd_13 = Right. I should go now. Kalia awaits me.
+Vlatyr_GUARD_QuestEnd_14 = Who knows, maybe we'll meet again, [MC].
+Vlatyr_GUARD_QuestEnd_15 = Until then, farewell.
+Vlatyr_GUARD_QuestEnd_16 = GUARD start moving away. He disapear in a nearby alley.
+Vlatyr_GUARD_QuestEnd_17 = Oh well. At least I did something good for a change...
 
 
 # ---------------------------------------------------------

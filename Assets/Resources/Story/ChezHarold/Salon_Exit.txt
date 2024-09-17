@@ -1,6 +1,6 @@
 fadeBg(1;true)
 
-removeCharacter(Harold)
+removeAllCharacters()
 setBackground(HaroldExterior)
 
 fadeBg(0;false)

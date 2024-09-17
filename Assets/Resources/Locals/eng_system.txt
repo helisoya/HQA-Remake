@@ -130,3 +130,7 @@ archerQuest_1 = Find the archer in the swamp
 archerQuest_2 = Talk to the hunter
 archerQuest_3 = Find the hunter in the swamp
 archerQuest_4 = Confront the archer in the swamp
+
+guardQuest = The sect's trail
+guardQuest_0 = Get the list from Harold
+guardQuest_1 = Give the list to GUARD
