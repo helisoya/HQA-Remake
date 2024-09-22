@@ -781,8 +781,7 @@ Swamtyr_ArcherGoesToFortress_8 = I have to hurry, or else there will be troubles
 Mountains_Sign_Default_1 = "House of the great wizard of Vlatyr"
 Mountains_Sign_Default_2 = Where is the house ?
 
-Mountains_Car_1 = It seems no car can escape Lord Ember's wrath. I don't even know how it got here.
-
+Mountains_Car_1 = How did this car end up here ?
 
 # ---------------------------------------------------------
 # --------------- Forteresse ------------------------------

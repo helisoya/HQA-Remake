@@ -780,7 +780,7 @@ Swamtyr_ArcherGoesToFortress_8 = Je dois me dépecher, ou sinon on va avoir des 
 Mountains_Sign_Default_1 = "Demeure du grand sorcier de Vlatyr"
 Mountains_Sign_Default_2 = Ou est la maison ?
 
-Mountains_Car_1 = On dirait qu'aucune voiture n'échappe au Seigneur Braise. Je ne sais même pas comment elle est arrivée là.
+Mountains_Car_1 = Comment est-ce que cette voiture a finie là ?
 
 # ---------------------------------------------------------
 # --------------- Forteresse ------------------------------
