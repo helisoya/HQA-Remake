@@ -4,7 +4,7 @@ setBackground(MinesOutside)
 
 if(rain = 1) changeSkybox(NightRain)
 
-setInteractionChapter(Mines;Mountains/Mines_Check)
+setInteractionChapter(Mines;Mines/Mines_Check)
 setInteractionChapter(Exit;MAP-Vlatyr-Mines)
 
 interact

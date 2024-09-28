@@ -66,7 +66,10 @@ rules_BBA_goal = Defeat the Archer.
 rules_BBR_controls = Attack to deal damage. <br>Guard to gain HP back
 
 rules_PR_goal = Defeat Rickey.
-rules_PR_controls = -Down Arrow : Block<br>-Up Arrow : Attack
+rules_PR_controls = Down Arrow : Block<br>Up Arrow : Attack
+
+rules_MM_goal = Find quartz in the maze.
+rules_MM_controls = Right / Left : Turn<br>Up / Down : Move
 
 
 game_life = HP : 
@@ -120,6 +123,7 @@ mainQuest_0 = Meet Boyardee in Vlatyr
 mainQuest_1 = Deal with Rickey and the Archer
 mainQuest_2 = Go to the Braise Fortress
 mainQuest_3 = Find quartz in the mines
+mainQuest_4 = Talk to Harold
 
 rickeyQuest = The CEO
 rickeyQuest_0 = Enter RickeyLand

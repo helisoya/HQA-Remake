@@ -783,6 +783,26 @@ Mountains_Sign_Default_2 = Where is the house ?
 
 Mountains_Car_1 = How did this car end up here ?
 
+
+# ---------------------------------------------------------
+# ---------------- Mines ------------------------------
+# ---------------------------------------------------------
+
+Mines_MainQuest3_1 = So this is the mine Harold told me about.
+Mines_MainQuest3_2 = I should be able to find the quartz he want in there.
+Mines_MainQuest3_3 = Let's go. We're short on time.
+Mines_MainQuest3_4 = I enter the mines.
+Mines_MainQuest3_5 = It's very dark in here. I have to be careful not to get lost.
+Mines_MainQuest3_6 = I light up a nearby torch. It will help navigate this maze.
+Mines_MainQuest3_7 = Well... Time to find some quartz.
+
+Mines_MainQuest3_8 = I finally found some quartz.
+Mines_MainQuest3_9 = Harold should be satisfied now...
+Mines_MainQuest3_10 = Well, time to get out of here.
+Mines_MainQuest3_11 = I manage to exit the mines after walking for a bit.
+Mines_MainQuest3_12 = Alright. Now I should head back to Harold's house.
+
+
 # ---------------------------------------------------------
 # --------------- Forteresse ------------------------------
 # ---------------------------------------------------------

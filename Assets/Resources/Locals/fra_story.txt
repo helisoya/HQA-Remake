@@ -783,6 +783,25 @@ Mountains_Sign_Default_2 = Ou est la maison ?
 Mountains_Car_1 = Comment est-ce que cette voiture a finie là ?
 
 # ---------------------------------------------------------
+# ---------------- Mines ------------------------------
+# ---------------------------------------------------------
+
+Mines_MainQuest3_1 = Donc voila la mine dont Harold m'a parlé.
+Mines_MainQuest3_2 = Je devrai pouvoir trouver le quartz dont il a besoin ici.
+Mines_MainQuest3_3 = Allons-y. Le temps presse.
+Mines_MainQuest3_4 = J'entre dans la mine.
+Mines_MainQuest3_5 = C'est très sombre à l'intérieur. Je devrais faire attention à ne pas me perdre.
+Mines_MainQuest3_6 = J'allume une torche non loin de moi. Elle m'aidera à naviguer dans cet endroit.
+Mines_MainQuest3_7 = Bien... Il est temps de trouver du quartz.
+
+Mines_MainQuest3_8 = J'arrive enfin à trouver du quartz.
+Mines_MainQuest3_9 = Harold devrait être satisfait.
+Mines_MainQuest3_10 = Bien. Il est temps de partir d'ici.
+Mines_MainQuest3_11 = J'arrive à quitter la mine après quelques minutes de marche.
+Mines_MainQuest3_12 = Maintenant, je devrais retourner chez Harold.
+
+
+# ---------------------------------------------------------
 # --------------- Forteresse ------------------------------
 # ---------------------------------------------------------
 
