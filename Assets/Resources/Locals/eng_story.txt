@@ -219,6 +219,28 @@ ChezHarold_Harold_MainQuest2_Archer_3 = I heard some of them can make their user
 ChezHarold_Harold_MainQuest3_1 = You should head to the mines.
 ChezHarold_Harold_MainQuest3_2 = You'll find the quartz we need there.
 
+ChezHarold_Harold_MainQuest4_1 = [MC] ! Did you find the quartz I require ?
+ChezHarold_Harold_MainQuest4_2 = Yes. Here it is.
+ChezHarold_Harold_MainQuest4_3 = I give Harold the quartz.
+ChezHarold_Harold_MainQuest4_4 = Thank you, [MC]. Wait here, I'll finish the potion in a few minutes.
+ChezHarold_Harold_MainQuest4_5 = Harold leaves the room. I suppose his brewing tools aren't here.
+ChezHarold_Harold_MainQuest4_6 = After a few minutes, he comes back with a strange potion in hand.
+ChezHarold_Harold_MainQuest4_7 = There ! I managed to brew the potion.
+ChezHarold_Harold_MainQuest4_8 = If you drink it, you'll be able to go through the fortress's barrier.
+ChezHarold_Harold_MainQuest4_9 = Be careful though. The effect will last only a few minutes.
+ChezHarold_Harold_MainQuest4_10 = Which means I'll be stuck in the fortress until I defeat the wizard.
+ChezHarold_Harold_MainQuest4_11 = Yes. But I have faith in you. You'll stop him, right ?
+ChezHarold_Harold_MainQuest4_12 = Of course.
+ChezHarold_Harold_MainQuest4_13 = When you manage to enter the fortress, your first order of business will be to locate the chaos orb.
+ChezHarold_Harold_MainQuest4_14 = I believe it is hidden in the throne room.
+ChezHarold_Harold_MainQuest4_15 = You must find it before the wizard, or the region will be in grave danger.
+ChezHarold_Harold_MainQuest4_16 = Don't worry. He won't lay a finger on it.
+ChezHarold_Harold_MainQuest4_17 = Right, thank you.
+ChezHarold_Harold_MainQuest4_18 = Good luck, [MC].
+
+ChezHarold_Harold_MainQuest5_1 = You need to head to the fortress and defeat the wizard.
+ChezHarold_Harold_MainQuest5_2 = We can't let him find the chaos orb, [MC] !
+
 
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
@@ -232,6 +254,8 @@ ChezHarold_GUARDQuest0_6 = There it is. The list of the sect's members...
 ChezHarold_GUARDQuest0_7 = There aren't many names on it though.
 ChezHarold_GUARDQuest0_8 = The list's title is "Kalia's Chapter". I wonder what it means.
 ChezHarold_GUARDQuest0_9 = I should give this to GUARD.
+
+
 
 
 

@@ -222,6 +222,29 @@ ChezHarold_Harold_MainQuest2_Archer_3 = J'ai entendu dire que certains d'entre e
 ChezHarold_Harold_MainQuest3_1 = Vous devez aller à la mine.
 ChezHarold_Harold_MainQuest3_2 = Vous y trouverez le quartz dont nous avons besoin.
 
+ChezHarold_Harold_MainQuest4_1 = [MC] ! Avez-vous trouvé le quartz dont j'ai besoin ?
+ChezHarold_Harold_MainQuest4_2 = Oui. Le voici.
+ChezHarold_Harold_MainQuest4_3 = Je donne à Harold le quartz.
+ChezHarold_Harold_MainQuest4_4 = Merci, [MC]. Attendez ici, je vais finir la potion dans quelques minutes.
+ChezHarold_Harold_MainQuest4_5 = Harold quitte la pièce. Je suppose que ses outils ne sont pas ici.
+ChezHarold_Harold_MainQuest4_6 = Après quelques minutes, il revient avec une potion étrange dans sa main.
+ChezHarold_Harold_MainQuest4_7 = Voila ! J'ai réussit à concocter la potion.
+ChezHarold_Harold_MainQuest4_8 = Si vous la buvez, vous pourrez traverser la barrière de la forteresse.
+ChezHarold_Harold_MainQuest4_9 = Soyez cependant prudent. Les effets ne durent que quelques minutes.
+ChezHarold_Harold_MainQuest4_10 = Ce qui veut dire que je serai coincé dans la forteresse tant que le sorcier sera là.
+ChezHarold_Harold_MainQuest4_11 = Oui. Mais j'ai foi en vous. Vous allez l'arrêter, non ?
+ChezHarold_Harold_MainQuest4_12 = Bien sur.
+ChezHarold_Harold_MainQuest4_13 = Une fois dans la forteresse, votre premier objectif sera de localiser l'orbe du chaos.
+ChezHarold_Harold_MainQuest4_14 = Je pense qu'elle est cachée dans la salle du trône.
+ChezHarold_Harold_MainQuest4_15 = Vous devez la trouver avant le sorcier, ou la région sera en grave danger.
+ChezHarold_Harold_MainQuest4_16 = N'ais crainte. Il ne posera pas un doigt sur l'orbe.
+ChezHarold_Harold_MainQuest4_17 = Bien, merci.
+ChezHarold_Harold_MainQuest4_18 = Bonne chance, [MC].
+
+ChezHarold_Harold_MainQuest5_1 = Vous devez aller à la forteresse et vaincre le sorcier.
+ChezHarold_Harold_MainQuest5_2 = Nous ne pouvons pas le laisser trouver l'orbe du chaos, [MC] !
+
+
 ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 
 ChezHarold_GUARDQuest0_1 = Oh ? Harold n'est pas là ?

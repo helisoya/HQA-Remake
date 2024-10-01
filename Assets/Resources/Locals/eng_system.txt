@@ -124,6 +124,7 @@ mainQuest_1 = Deal with Rickey and the Archer
 mainQuest_2 = Go to the Braise Fortress
 mainQuest_3 = Find quartz in the mines
 mainQuest_4 = Talk to Harold
+mainQuest_5 = Enter the fortress
 
 rickeyQuest = The CEO
 rickeyQuest_0 = Enter RickeyLand
