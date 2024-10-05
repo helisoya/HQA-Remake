@@ -1,3 +1,0 @@
-setInteractionChapter(Exit;BraiseFortress/Gate_Exit)
-
-interact
