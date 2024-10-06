@@ -71,6 +71,9 @@ rules_PR_controls = Down Arrow : Block<br>Up Arrow : Attack
 rules_MM_goal = Find quartz in the maze.
 rules_MM_controls = Right / Left : Turn<br>Up / Down : Move
 
+rules_BW_goal = Survive for 60 seconds. Evade the rocks.
+rules_BW_controls = Arrow keys : Move in the arrow's direction
+
 
 game_life = HP : 
 game_player = Player :
