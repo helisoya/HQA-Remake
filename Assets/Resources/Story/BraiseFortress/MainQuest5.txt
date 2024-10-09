@@ -1,3 +1,5 @@
+playMusic(null)
+
 dialog([MC];_;false;Fortress_MainQuest5_1)
 dialog([MC];_;false;Fortress_MainQuest5_2)
 dialog(narrator;_;false;Fortress_MainQuest5_3)

@@ -126,6 +126,7 @@ mainQuest_2 = Aller à la forteresse Braise
 mainQuest_3 = Trouver du quartz dans les mines
 mainQuest_4 = Parler à Harold
 mainQuest_5 = Entrer dans la forteresse
+mainQuest_6 = Parler à Harold
 
 rickeyQuest = Le PDG
 rickeyQuest_0 = Entrer dans Rickeyland

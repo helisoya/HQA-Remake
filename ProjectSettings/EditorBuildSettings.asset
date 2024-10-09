@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MG/Aftermath/MM.unity
     guid: f461529e978d48f49906a5bdb1764f7e
+  - enabled: 1
+    path: Assets/Scenes/MG/Aftermath/BW.unity
+    guid: 22de575b763dae94faf21640dde5ee76
   m_configObjects: {}

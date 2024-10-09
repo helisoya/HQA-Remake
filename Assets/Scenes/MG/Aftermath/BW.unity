@@ -96,7 +96,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 8d8b6cf3624355446a1593a4b41bd8b5,
+  m_LightingDataAsset: {fileID: 112000000, guid: 03ee0589d5f26dc4fa1e025b4faebf7d,
     type: 2}
   m_LightingSettings: {fileID: 1667076040}
 --- !u!196 &4
@@ -9163,7 +9163,7 @@ LightingSettings:
   m_UsingShadowmask: 1
   m_BakeBackend: 1
   m_LightmapMaxSize: 1024
-  m_BakeResolution: 40
+  m_BakeResolution: 5
   m_Padding: 2
   m_LightmapCompression: 3
   m_AO: 0

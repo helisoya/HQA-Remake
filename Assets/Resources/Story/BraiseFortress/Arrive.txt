@@ -1,7 +1,9 @@
 playMusic(Exploration_2)
 removeAllCharacters()
-if(mainQuest > 2) setBackground(BraiseBridgeBarrier)
-if(mainQuest < 3) setBackground(BraiseBridge)
+
+setBackground(BraiseBridge)
+
+if(mainQuest > 2 & mainQuest < 6) setBackground(BraiseBridgeBarrier)
 
 if(rain = 1) changeSkybox(FortressRain)
 

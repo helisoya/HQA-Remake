@@ -1,4 +1,5 @@
 if(mainQuest < 5) BraiseFortress/Barrier
+if(mainQuest = 6) BraiseFortress/Gate_Done
 
 load(BraiseFortress/MainQuest5)
 
