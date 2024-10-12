@@ -244,6 +244,78 @@ ChezHarold_Harold_MainQuest4_18 = Bonne chance, [MC].
 ChezHarold_Harold_MainQuest5_1 = Vous devez aller à la forteresse et vaincre le sorcier.
 ChezHarold_Harold_MainQuest5_2 = Nous ne pouvons pas le laisser trouver l'orbe du chaos, [MC] !
 
+ChezHarold_Harold_MainQuest6_1 = [MC] ! Avez-vous réussit ? Le sorcier a-t-il été vaincu ?
+ChezHarold_Harold_MainQuest6_2 = Oui. Il ne va plus menacer la région maintenant.
+ChezHarold_Harold_MainQuest6_3 = Bien, bien. Et l'orbe ? L'avez-vous sécurisée ?
+ChezHarold_Harold_MainQuest6_4 = Elle a disparu quand le sorcier a tenté de l'utiliser.
+ChezHarold_Harold_MainQuest6_5 = Je ne sais pas ou elle se trouve maintenant.
+ChezHarold_Harold_MainQuest6_6 = Ah, je savais que ça pouvais arriver...
+ChezHarold_Harold_MainQuest6_7 = J'ai entendu dire que l'orbe du chaos pouvais disparaitre quand mal utilisée. 
+ChezHarold_Harold_MainQuest6_8 = Je suppose que notre ami n'a pas su s'en servir correctement.
+ChezHarold_Harold_MainQuest6_9 = Ce qui est une bonne nouvelle. Personne ne pourra utiliser l'orbe maintenant.
+ChezHarold_Harold_MainQuest6_10 = Mais je suis un peut triste, je voulais l'examiner un peu. Ce n'est cependant pas grâve.
+ChezHarold_Harold_MainQuest6_11 = La paix est plus importante que ma curiosité, pas vrai ?
+ChezHarold_Harold_MainQuest6_12 = Bien sur.
+
+ChezHarold_Harold_MainQuest6_NotJoined_1 = Vous pouvez me renvoyer dans mon monde maintenant ?
+ChezHarold_Harold_MainQuest6_NotJoined_2 = Ah, Je... Je suppose que je devrais le faire.
+ChezHarold_Harold_MainQuest6_NotJoined_3 = [MC], je suis vraiment désolé. J'aurais dû tout vous dire depuis le début.
+ChezHarold_Harold_MainQuest6_NotJoined_4 = Etes-vous sur de vouloir repartir ?
+ChezHarold_Harold_MainQuest6_NotJoined_5 = Je peux vous aider. La guilde peut vous aider.
+ChezHarold_Harold_MainQuest6_NotJoined_6 = Vous avez montré de grandes capacités durant cet épreuve.
+ChezHarold_Harold_MainQuest6_NotJoined_7 = Nous aurions besoin de personnes avec vos talents. Nous pourions donner sens à votre vie.
+ChezHarold_Harold_MainQuest6_NotJoined_8 = ...
+ChezHarold_Harold_MainQuest6_NotJoined_9 = S'il vous plait. Au moins réfléchissez-y. Je ne veux que vous aider.
+ChezHarold_Harold_MainQuest6_NotJoined_10 = Allez-vous nous rejoindre ?
+
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_1 = Non. Je suis désolé, mais non.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_2 = Comme je l'ai dit avant, je vais regretter de quitter mon monde.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_3 = Je vois. Je respecte votre décision.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_4 = Je vais donc vous renvoyer dans votre monde.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_5 = Tenez, buvez cette potion. Elle vous renvera dans votre monde.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_6 = Harold me donne une potion. Enfin...
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_7 = Je la bois, je tombe dans l'inconscience immédiatement.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_8 = Quand je me réveille, je suis de retour dans mon monde.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_9 = Quel désastre... Je devrais sortir marcher un peu.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_10 = Je me lève, et me dirige vers l'entrée de ma maison.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_11 = Tout à l'air en ordre.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_12 = Une fois sorti, je regare le ciel.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_13 = ....... 
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_14 = Etrange... J'ai l'impression... D'avoir déjà été ici ?
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_15 = C'est ma maison ? Je... Je pense.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_16 = Je... Je... Oui. C'est ma maison. Je suis juste fatigué.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_17 = Tout va bien. Rien n'a changé.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_18 = Je vais maintenant aller travailler.....
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_19 = Ils ont besoin de moi. Ils ont besoin de mes capacités.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_20 = Allons-y.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_21 = ........
+
+
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_1 = D'accord, d'accord. Je vais rejoindre votre guilde.
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_2 = Merci, [MC] !
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_3 = Vous ne le regretterez pas. Nous avons besoin de gens comme vous.
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_4 = Maintenant, reposez vous. Vous en avez bien besoin.
+
+
+ChezHarold_Harold_MainQuest6_AlreadyJoined_1 = Et quoi maintenant ?
+ChezHarold_Harold_MainQuest6_AlreadyJoined_2 = Et bien, vous avez eu un avant gout des épreuves que la guilde doit affronter.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_3 = Je suis sur que ce sera pas le dernier. De nouvelles épreuves arriveront bientôt.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_4 = Je serai prêt à leur faire face.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_5 = J'en sur sur. Merci de nous avoir rejoint par ailleurs.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_6 = Je savais que je pouvais vous faire confiance. Vous êtes vraiment intéressant.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_7 = Reposez-vous, [MC]. Vous en avez bien besoin.
+
+ChezHarold_Harold_MainQuest6_AlreadyJoined_8 = Je vais vous introduire aux membres de la guilde plus tard.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_9 = Très bien...
+ChezHarold_Harold_MainQuest6_AlreadyJoined_10 = Ainsi, ma petite aventure prit fin.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_11 = Harold m'a introduit à sa guilde. Ils sont plutôt étrange, je dois dire.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_12 = Mais une fois qu'ils ont commencé à me donner des quêtes et des épreuves à surmonter. Je me suis senti chez moi.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_13 = Je ne sais pas ce que le futur promet. Mais je serais pret à me battre.
+
+
+ChezHarold_Harold_MainQuest6_End_1 = Fin.
+ChezHarold_Harold_MainQuest6_End_2 = Merci d'avoir joué !
+
 
 ChezHarold_Harold_Default = [MC] ! Avez-vous besoin d'aide ?
 

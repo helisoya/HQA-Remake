@@ -241,6 +241,77 @@ ChezHarold_Harold_MainQuest4_18 = Good luck, [MC].
 ChezHarold_Harold_MainQuest5_1 = You need to head to the fortress and defeat the wizard.
 ChezHarold_Harold_MainQuest5_2 = We can't let him find the chaos orb, [MC] !
 
+ChezHarold_Harold_MainQuest6_1 = [MC] ! Did you succeed ? Was the wizard defeated ?
+ChezHarold_Harold_MainQuest6_2 = Yes. He is not going to threaten the world anymore.
+ChezHarold_Harold_MainQuest6_3 = Good, good. And what of the orb ? Did you secure it ?
+ChezHarold_Harold_MainQuest6_4 = The orb disapeared when the wizard tried to use it.
+ChezHarold_Harold_MainQuest6_5 = I don't know where it is now.
+ChezHarold_Harold_MainQuest6_6 = Ah, I had a feeling this could happen...
+ChezHarold_Harold_MainQuest6_7 = I heard the chaos orb can disapear when used improperly.
+ChezHarold_Harold_MainQuest6_8 = I suppose our friend didn't really know how to use it.
+ChezHarold_Harold_MainQuest6_9 = Which is good in our case. This means no one will be able to use the orb now.
+ChezHarold_Harold_MainQuest6_10 = I'm a little bit sad, since I wanted to examine it. But it's alright.
+ChezHarold_Harold_MainQuest6_11 = Peace is more important than my curiosity, right ?
+ChezHarold_Harold_MainQuest6_12 = Of course.
+
+ChezHarold_Harold_MainQuest6_NotJoined_1 = Can you send me back to my world now ?
+ChezHarold_Harold_MainQuest6_NotJoined_2 = Right, I... I guess I should.
+ChezHarold_Harold_MainQuest6_NotJoined_3 = [MC], I'm truly sorry. I shouldn't have held informations back from you.
+ChezHarold_Harold_MainQuest6_NotJoined_4 = Are you really sure you want to go back ?
+ChezHarold_Harold_MainQuest6_NotJoined_5 = I can help you. The guild can help you.
+ChezHarold_Harold_MainQuest6_NotJoined_6 = You showed me great capabilities during this ordeal.
+ChezHarold_Harold_MainQuest6_NotJoined_7 = We could give sense to your life. You could use your skills for peace.
+ChezHarold_Harold_MainQuest6_NotJoined_8 = ...
+ChezHarold_Harold_MainQuest6_NotJoined_9 = Please. At least reconsider. I'm only trying to help.
+ChezHarold_Harold_MainQuest6_NotJoined_10 = Will you join us ?
+
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_1 = No. I'm sorry, but no.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_2 = Like I said before, I'll regret leaving my world behind.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_3 = I see. I respect your decision.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_4 = I'll send you back to your world then.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_5 = Here, drink this potion. It will send you back.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_6 = Harold gives me a potion. Finally...
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_7 = I drink it, I fall unconscious immediatly.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_8 = When I wake up I'm home, back in my world.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_9 = What a disaster... I should go outside for a walk.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_10 = I get up, and head for my house's entrance.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_11 = Everything seems to be in order.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_12 = Once outside, I look at the sky.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_13 = ....... 
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_14 = Weird... I feel... I've already been here ?
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_15 = Is this my house ? I... I think so.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_16 = I... I... Yes. This is my house. I'm just tired.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_17 = Everything is in order. Nothing changed.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_18 = I'll go to work now.....
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_19 = They need me there. They need my skills.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_20 = Let's go.
+ChezHarold_Harold_MainQuest6_NotJoined_Refuse_21 = ........
+
+
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_1 = Alright, alright. I'll join your guild.
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_2 = Thank you, [MC] !
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_3 = You won't regret this. We could really use someone like you.
+ChezHarold_Harold_MainQuest6_NotJoined_Accept_4 = Now get some rest, you deserve it.
+
+
+ChezHarold_Harold_MainQuest6_AlreadyJoined_1 = So, what now ?
+ChezHarold_Harold_MainQuest6_AlreadyJoined_2 = Well, you pretty much saw what kind of ordeals our guild face.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_3 = I'm sure this won't be the end of it, however. New ordeals are sure to come soon.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_4 = I'll be ready to face them.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_5 = I'm sure you will. Thank you for joining us, by the way.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_6 = I knew I could count on you. You are truly promising.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_7 = Get some rest, [MC]. You deserve it.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_8 = I'll introduce you to the guild's members later.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_9 = Alright...
+ChezHarold_Harold_MainQuest6_AlreadyJoined_10 = Thus, my little adventure came to an end.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_11 = Harold introduced me to his guild. A strange bunch, I must say.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_12 = But once they started giving me quests, and ordeals to fight. I never felt better.
+ChezHarold_Harold_MainQuest6_AlreadyJoined_13 = I don't care what the future may hold. I'll be ready to fight.
+
+
+ChezHarold_Harold_MainQuest6_End_1 = The End.
+ChezHarold_Harold_MainQuest6_End_2 = Thanks for playing !
+
 
 ChezHarold_Harold_Default = [MC] ! Do you need help with anything ?
 
