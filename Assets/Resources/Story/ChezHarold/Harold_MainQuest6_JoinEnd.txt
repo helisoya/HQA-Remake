@@ -2,6 +2,7 @@ dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_8)
 
 dialog([MC];_;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_9)
 
+playMusic(null)
 fadeBg(1;true)
 
 dialog([MC];_;false;ChezHarold_Harold_MainQuest6_AlreadyJoined_10)

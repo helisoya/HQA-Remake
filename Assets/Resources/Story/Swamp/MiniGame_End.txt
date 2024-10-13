@@ -4,6 +4,7 @@ setCharacterPosition(Marcel;Front)
 setCharacterRotation(Marcel;Front)
 
 dialog(Archer;_;false;Swamp_ArcherQuest4_17)
+playSound(Frappe)
 dialog(narrator;_;false;Swamp_ArcherQuest4_18)
 
 dialog(Marcel;Marcel;false;Swamp_ArcherQuest4_19)

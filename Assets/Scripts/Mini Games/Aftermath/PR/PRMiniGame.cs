@@ -17,6 +17,9 @@ public class PRMiniGame : MiniGame
     [SerializeField] private int maxRickeyHealth;
     [SerializeField] private float punchAnimationLength;
     [SerializeField] private float rickeyCooldownTime;
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip punchClip;
+    [SerializeField] private AudioClip damageClip;
 
     private int currentRickeyHealth;
     private float lastPlayerAttack;
@@ -77,6 +80,8 @@ public class PRMiniGame : MiniGame
                 animatorPlayer.SetTrigger("Attack");
                 lastPlayerAttack = Time.time;
 
+                audioSource.PlayOneShot(punchClip);
+
                 if (!rickeyBlocking)
                 {
                     AddHealth(-1);
@@ -99,6 +104,7 @@ public class PRMiniGame : MiniGame
             switch (random)
             {
                 case 0: // Attack
+                    audioSource.PlayOneShot(punchClip);
                     animatorRickey.SetTrigger("Attack");
                     checkForRickeyAttack = true;
                     break;
@@ -116,6 +122,7 @@ public class PRMiniGame : MiniGame
             checkForRickeyAttack = false;
             if (!blocking)
             {
+                audioSource.PlayOneShot(damageClip);
                 bloodAnimator.SetTrigger("Blood");
                 AddHealth(1);
             }

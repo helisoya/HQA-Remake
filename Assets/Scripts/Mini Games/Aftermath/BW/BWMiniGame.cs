@@ -18,6 +18,7 @@ public class BWMiniGame : MiniGame
     [SerializeField] private Image timerFill;
     [SerializeField] private Animator damageAnimator;
     [SerializeField] private Vector2 arenaSize;
+    [SerializeField] private AudioSource damageSource;
     private float lastRockSpawn;
     private float startTime;
 
@@ -31,6 +32,8 @@ public class BWMiniGame : MiniGame
     public void TakeDamage()
     {
         startTime = Time.time;
+        if (damageSource.isPlaying) damageSource.Stop();
+        damageSource.Play();
         damageAnimator.SetTrigger("Blood");
     }
 

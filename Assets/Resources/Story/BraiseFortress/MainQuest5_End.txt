@@ -1,4 +1,5 @@
 setBackground(BraiseTrone)
+playMusic(Fortress)
 
 addCharacter(Mage;false)
 setCharacterPosition(Mage;Front)
@@ -26,6 +27,7 @@ dialog(Mage;Mage;false;Fortress_MainQuest5_52)
 dialog(narrator;_;false;Fortress_MainQuest5_53)
 dialog(narrator;_;false;Fortress_MainQuest5_54)
 
+playSound(Frappe)
 setCharacterBody(Mage;OrbFall;false)
 
 dialog(Mage;Mage;false;Fortress_MainQuest5_55)
@@ -47,6 +49,7 @@ fadeBg(1;true)
 
 removeAllCharacters()
 setBackground(BraiseBridge)
+playMusic(null)
 
 fadeBg(0;false)
 

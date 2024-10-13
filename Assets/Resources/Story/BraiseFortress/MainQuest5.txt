@@ -25,6 +25,7 @@ dialog(narrator;_;false;Fortress_MainQuest5_13)
 
 fadeBg(1;true)
 
+playMusic(Fortress)
 setBackground(BraiseCouloir)
 
 fadeBg(0;false)

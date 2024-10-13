@@ -616,6 +616,7 @@ RickeyLand_Natasha_RickeyQuest1_1 = L'un des gardes doit avoir la clé de cette 
 RickeyLand_Natasha_RickeyQuest1_2 = Trouvez la, et laissez moi sortir d'ici. Je vous aiderai à trouver le PDG.
 
 RickeyLand_Guard_Default_1 = ....Zzzz...
+RickeyLand_Guard_TooSoon_1 = Mauvaise idée...
 
 RickeyLand_Guard_RickeyQuest1_1 = Un garde de sécurité ? Il a peut être la clé de la cage. 
 RickeyLand_Guard_RickeyQuest1_2 = Je n'arrive pas à croire qu'ils me font garder cette allée.
@@ -653,6 +654,7 @@ RickeyLand_Natasha_RickeyQuest3_1 = Vous pouvez trouver un pass dans la boutique
 RickeyLand_Cage_None_1 = Il n'y a rien à l'intérieur de cette cage.
 
 RickeyLand_Souvenir_Done_1 = Je n'ai plus besoin d'entrer dans la boutique.
+RickeyLand_Souvenir_TooSoon_1 = Je n'ai pas besoin d'entrer dans la boutique.
 
 RickeyLand_RickeyQuest3_1 = C'est donc la boutique dont la fille a parlé.
 RickeyLand_RickeyQuest3_2 = Je devrais pouvoir trouver le pass ici.

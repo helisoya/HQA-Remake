@@ -25,6 +25,7 @@ dialog(Archer;_;false;Swamp_ArcherQuest4_9)
 
 setCharacterEye(Marcel;Surprise)
 
+playSound(Arrow)
 dialog(Marcel;Marcel;false;Swamp_ArcherQuest4_10)
 dialog(narrator;_;false;Swamp_ArcherQuest4_11)
 

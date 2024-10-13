@@ -5017,7 +5017,7 @@ MonoBehaviour:
   bgmName: 
   cellPrefab: {fileID: 4436813106706295460, guid: be4c2b4e1a8b3cf4ea6cfc72d4d80163,
     type: 3}
-  mazeSize: 20
+  mazeSize: 15
   player: {fileID: 421520884}
   speed: 10
   turnSpeed: 2

@@ -620,6 +620,7 @@ RickeyLand_Natasha_RickeyQuest1_1 = One of the guard must have the key to this c
 RickeyLand_Natasha_RickeyQuest1_2 = Find it and let me out of here. I'll help you find the CEO.
 
 RickeyLand_Guard_Default_1 = ....Zzzz...
+RickeyLand_Guard_TooSoon_1 = Bad idea...
 
 RickeyLand_Guard_RickeyQuest1_1 = A security guard ? Maybe he has the key to the cage.
 RickeyLand_Guard_RickeyQuest1_2 = I can't believe they made me guard this alley.
@@ -657,6 +658,7 @@ RickeyLand_Natasha_RickeyQuest3_1 = You can find a pass in the souvenir shop to 
 RickeyLand_Cage_None_1 = There is nothing inside this cage.
 
 RickeyLand_Souvenir_Done_1 = I don't need to enter the shop anymore.
+RickeyLand_Souvenir_TooSoon_1 = I don't need to enter the shop.
 
 RickeyLand_RickeyQuest3_1 = So this is the shop the girl talked about.
 RickeyLand_RickeyQuest3_2 = I should be able to find the pass here.
@@ -931,7 +933,7 @@ Fortress_MainQuest2_Rickey_26 = They're working with the governement, the police
 Fortress_MainQuest2_Rickey_27 = All so they can force me to close down my great RickeyLand !
 Fortress_MainQuest2_Rickey_28 = But I won't let them, no !
 Fortress_MainQuest2_Rickey_29 = They think they can get me with this "money" thing. They are wrong.
-Fortress_MainQuest2_Rickey_30 = I'm going to take control of the fortress and it's gold.
+Fortress_MainQuest2_Rickey_30 = I'm going to take control of the fortress and its gold.
 Fortress_MainQuest2_Rickey_31 = I will use the gold to pay whatever "debts" they think I have.
 Fortress_MainQuest2_Rickey_32 = And I will make this fortress my new HQ. The Grand Rickey Fortress !
 Fortress_MainQuest2_Rickey_33 = It will strike fear into the conspirators, fear !

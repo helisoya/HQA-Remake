@@ -56,8 +56,11 @@ dialog(narrator;_;false;Swamp_ArcherQuest1_27)
 
 dialog(Archer;Archer;false;Swamp_ArcherQuest1_28)
 
+playSound(Arrow)
 dialog(narrator;_;false;Swamp_ArcherQuest1_29)
 dialog(narrator;_;false;Swamp_ArcherQuest1_30)
+
+playSound(Arrow)
 dialog(narrator;_;false;Swamp_ArcherQuest1_31)
 dialog(narrator;_;false;Swamp_ArcherQuest1_32)
 

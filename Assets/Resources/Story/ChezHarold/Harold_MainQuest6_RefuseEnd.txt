@@ -7,6 +7,7 @@ dialog(Harold;Harold;false;ChezHarold_Harold_MainQuest6_NotJoined_Refuse_5)
 
 dialog(narrator;_;false;ChezHarold_Harold_MainQuest6_NotJoined_Refuse_6)
 
+playMusic(null)
 fadeBg(1;true)
 
 dialog(narrator;_;false;ChezHarold_Harold_MainQuest6_NotJoined_Refuse_7)

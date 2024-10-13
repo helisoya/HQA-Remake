@@ -94,6 +94,7 @@ dialog(Rickey;Rickey;false;RickeyLand_RickeyQuest4_34)
 setCharacterAlpha(Rickey;0;true)
 setCharacterAlpha(Natasha;1;false)
 
+playSound(Frappe)
 dialog(narrator;_;false;RickeyLand_RickeyQuest4_35)
 dialog(Natasha;Natasha;false;RickeyLand_RickeyQuest4_36)
 
